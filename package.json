@@ -1,0 +1,27 @@
+{
+  "name": "ca262_incident-management",
+  "version": "1.0.0",
+  "description": "A simple CAP project.",
+  "repository": "<Add your repository here>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@sap/cds": "^9",
+    "express": "^4"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^2",
+    "@cap-js/cds-types": "^0.14.0",
+    "@sap/cds-dk": "^9.3.0"
+  },
+  "scripts": {
+    "install:all": "npm ci && cd app/incidents && npm ci",
+    "start": "cds-serve",
+    "build:minify": "cd app/incidents && npx ui5 build --exclude-task=* --include-task=minify --clean-dest=true",
+    "build:generateComponentPreload": "cd app/incidents && npx ui5 build --exclude-task=* --include-task=generateComponentPreload --clean-dest=true",
+    "build:preload": "cd app/incidents && npx ui5 build preload --clean-dest=true"
+  },
+  "sapux": [
+    "app/incidents"
+  ]
+}

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script>
+            window['sap-ushell-config'] = {
+                defaultRenderer: 'fiori2',
+                renderers: {
+                    fiori2: {
+                        componentData: {
+                            config: {
+                                enableSearch: false
+                            }
+                        }
+                    }
+                },
+                applications: {
+                    "incidents-app": {
+                        title: 'Incident-Management',
+                        description: 'Incidents',
+                        additionalInformation: 'SAPUI5.Component=com.sap.teched.ca262.incidents',
+                        applicationType: 'URL',
+                        url: "./incidents/webapp",
+                        navigationMode: 'embedded'
+                    },
+                    "incidents-app-first-build": {
+                        title: 'Incident-Management-First-Build',
+                        description: 'Incidents First Build',
+                        additionalInformation: 'SAPUI5.Component=com.sap.teched.ca262.incidents.distfirstbuild',
+                        applicationType: 'URL',
+                        url: "./incidents/dist_first_build",
+                        navigationMode: 'embedded'
+                    },
+                    "incidents-app-dist-build-mdc": {
+                        title: 'Incident-Management-Build-MDC',
+                        description: 'Incidents Build MDC',
+                        additionalInformation: 'SAPUI5.Component=com.sap.teched.ca262.incidents.distbuildmdc',
+                        applicationType: 'URL',
+                        url: "./incidents/dist_build_mdc",
+                        navigationMode: 'embedded'
+                    },
+                    "incidents-app-dist-build-mdc-fl": {
+                        title: 'Incident-Management-Build-MDC-FL',
+                        description: 'Incidents Build MDC and FL',
+                        additionalInformation: 'SAPUI5.Component=com.sap.teched.ca262.incidents.distbuildmdcfl',
+                        applicationType: 'URL',
+                        url: "./incidents/dist_build_mdc_fl",
+                        navigationMode: 'embedded'
+                    },
+                    "incidents-app-dist-build-mdc-fl-f": {
+                        title: 'Incident-Management-Build-MDC-FL-F',
+                        description: 'Incidents Build MDC, FL and F',
+                        additionalInformation: 'SAPUI5.Component=com.sap.teched.ca262.incidents.distbuildmdcflf',
+                        applicationType: 'URL',
+                        url: "./incidents/dist_build_mdc_fl_f",
+                        navigationMode: 'embedded'
+                    },
+                    "incidents-app-dist-build-mdc-fl-f-uxap": {
+                        title: 'Incident-Management-Build-MDC-FL-F-UXAP',
+                        description: 'Incidents Build MDC, FL, F and UXAP',
+                        additionalInformation: 'SAPUI5.Component=com.sap.teched.ca262.incidents.distbuildmdcflfuxap',
+                        applicationType: 'URL',
+                        url: "./incidents/dist_build_mdc_fl_f_uxap",
+                        navigationMode: 'embedded'
+                    }
+            }
+        }
+        </script>
+        <script src="https://ui5.sap.com/1.139.0/test-resources/sap/ushell/bootstrap/sandbox.js"></script>
+        <script
+            src="https://sapui5.hana.ondemand.com/1.139.0/resources/sap-ui-core.js"
+            data-sap-ui-libs="sap.m, sap.ushell, sap.fe.templates, sap.ui.mdc, sap.ui.fl, sap.f, sap.uxap, sap.cards.ap.common, sap.cards.ap.transpiler, sap.ui.integration"
+            data-sap-ui-compatVersion="edge"
+            data-sap-ui-theme="sap_horizon"
+            data-sap-ui-frameOptions="allow"
+            data-sap-ui-bindingSyntax="complex"
+        ></script>
+        <script>
+            sap.ui.getCore().attachInit(function() {
+                sap.ushell.Container.createRenderer().placeAt('content');
+            });
+        </script>
+    </head>
+    <body class="sapUiBody" id="content"></body>
+</html>

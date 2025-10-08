@@ -1,0 +1,14 @@
+<core:FragmentDefinition xmlns:f="sap.f" xmlns:core="sap.ui.core" xmlns="sap.m" xmlns:macros="sap.fe.macros">
+	<VBox id="vbox">
+		<f:AvatarGroup
+			id="avatarGroup"
+			groupType="Individual"
+			avatarDisplaySize="S"
+			items="{processors}">
+			<f:AvatarGroupItem
+				id="avatarGroupItem"
+				   initials="{= ${processor/firstName}.substring(0,1) + ${processor/lastName}.substring(0,1) }"
+				   tooltip="{= ${processor/firstName} + ' ' + ${processor/lastName} }"/>
+		</f:AvatarGroup>
+	</VBox>
+</core:FragmentDefinition>
