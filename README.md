@@ -19,7 +19,7 @@ The requirements to follow the exercises in this repository are web applications
 
 - [Getting Started](exercises/ex0/README.md)
 - [Exercise 1 - Understanding network traffic](exercises/ex1/README.md)
-- [Exercise 2 - UI5 Build](exercises/ex2/README.md)
+- [Exercise 2 - UI5 Builder](exercises/ex2/README.md)
 - [Exercise 3 - Analyzing network traffic](exercises/ex3/README.md)
 - [Exercise 4 - Analyzing OData requests](exercises/ex4/README.md)
 

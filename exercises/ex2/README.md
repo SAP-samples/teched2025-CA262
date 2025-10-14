@@ -1,4 +1,4 @@
-# Exercise 2 - UI5 Build
+# Exercise 2 - UI5 Builder
 
 In this exercise, we will learn how to prepare your application for production using the UI5 CLI.
 Typically JavaScript belongs to the interpreted languages, although relevant modern engines use just-in-time compilation for improved performance.
@@ -62,10 +62,10 @@ This task bundles all the application specific files into one file called `compo
 
 ## Summary
 
-You've now learnt how to use the UI5 Build in order to prepare your application for production.
+You've now learnt how to use the UI5 Builder in order to prepare your application for production.
 
 > [!IMPORTANT]
 > **Kudos!** :trophy:  
 > You have completed the second exercise successfully.  
-> You seem to become an *Expert* in *UI5 Build*.  
+> You seem to become an *Expert* in *UI5 Builder*.  
 > Continue to - [Exercise 3 - Analyzing network traffic](../ex3/README.md)

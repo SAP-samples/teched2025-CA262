@@ -29,7 +29,7 @@ With the application running in your browser, open Chrome Developer Tools in the
 
    3.1. Number of requests
 
-   Note down the total number of requests made by the application during the initial load.
+   Note down the total number of requests made by the application during the initial load. Use the excel `teched2025-CA262-Results.xlsx` located in the root folder.
 
    3.2. Amount of data transferred and total load time
 
@@ -53,7 +53,7 @@ Now, re-enable the cache in DevTools by unchecking "Disable cache". Clear the pr
 
    1.1. Number of requests
 
-     Note down the total number of requests made by the application during the reload of the page. Split the number of requests into:
+     Note down the total number of requests made by the application during the reload of the page. Use the excel `teched2025-CA262-Results.xlsx` located in the root folder. Split the number of requests into:
 
       - requests that were served from cache (disk or memory)
       - requests that were fetched from the server
@@ -113,4 +113,4 @@ You've now completed Exercise 1, which enables you to understand which requests 
 > **Kudos!** :trophy:  
 > You have completed the first exercise successfully.  
 > You seem to become an *Expert* in *Understanding network traffic*.  
-> Continue to - [Exercise 2 - UI5 Build](../ex2/README.md)
+> Continue to - [Exercise 2 - UI5 Builder](../ex2/README.md)
