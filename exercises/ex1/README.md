@@ -9,6 +9,20 @@ With the application running in your browser, open Chrome Developer Tools in the
 
 ![DevTools Network tab](./images/DevTools-network-tab.png)
 
+Make sure that at least the following columns are visible in the network tab:
+
+- Name
+- Method
+- Status
+- Protocol
+- Size
+- Time
+- Waterfall
+
+To configure the visible columns, reload the page so that some requests are shown in the network tab. Then, right-click on any column header and select the desired columns from the context menu.
+
+![DevTools Network Columns](./images/DevTools-network-tab-columns.png)
+
 ## Exercise 1.2 Record the network traffic with disabled cache
 
 1. To record all network requests during the first load of the application, you need to disable the cache in DevTools.
@@ -64,8 +78,8 @@ Now, re-enable the cache in DevTools by unchecking "Disable cache". Clear the pr
    Do you understand the difference between the three categories? Have a look at the following headers in the requests/responses to understand the caching behavior:
 
       - `Cache-Control` (response) indicating how long the resource can be cached; [see RFC 9111 for reference](https://datatracker.ietf.org/doc/html/rfc9111#section-5.2)
-      - `If-None-Match` (request) and `Etag` (response) indicating the ETag of the cached resource; [see RFC 9111 for reference](https://datatracker.ietf.org/doc/html/rfc9111#section-4.3.1)
-      - `If-Modified-since` (request) and `Last-Modified` (response) indicating the last modification date of the resource; [see RFC 9111 for reference](https://datatracker.ietf.org/doc/html/rfc9111#section-4.3.1)
+      - `If-None-Match` (request) and `Etag` (response) indicating the ETag of the cached resource; search for these headers in requests resulting in a 304 response; [see RFC 9111 for reference](https://datatracker.ietf.org/doc/html/rfc9111#section-4.3.1)
+      - `If-Modified-since` (request) and `Last-Modified` (response) indicating the last modification date of the resource; search for these headers in requests resulting in a 304 response; [see RFC 9111 for reference](https://datatracker.ietf.org/doc/html/rfc9111#section-4.3.1)
 
    1.2. Amount of data transferred and total load time
 
@@ -82,7 +96,7 @@ The Chrome DevTools provide a way to simulate different network conditions. Usin
 
 1. Enable network throttling
 
-   Choose "Slow 4G" from the "Throttling" dropdown in the Network tab.
+   Choose "Slow 4G" from the "Throttling" dropdown in the Network tab. **Important:** Once you are finished, set the network throttling back to "No throttling" for the next exercises.
 
    ![DevTools Network Throttling](./images/DevTools-network-throttling.png)
 

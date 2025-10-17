@@ -29,11 +29,13 @@ Compare it with this bundle request:
 
 After completing these steps you will have learnt how to confirm that your application is fully optimized or whether it is lacking some performance improvements.
 
-1. Open Visual Studio Code and open the folder `teched2025-CA262`. Then, open a new terminal via `View -> Terminal` or reuse the one you opened previously. Finally, run the following command:
+1. Make sure that the server is still running in one of the terminals of Visual Studio Code. If this is not the case, start it again by running the following command:
 
    ```sh
    npm start
    ```
+
+   Remember to keep it running during all exercises. Other `npm` commands can be executed in a second terminal that can be opened via the `+` button in the terminal view of VS Code.
 
 2. With the built application running in your browser ([http://localhost:4004/incidents/dist/index.html](http://localhost:4004/incidents/dist/index.html)), open Chrome Developer Tools in the same tab by pressing `F12` or right-clicking anywhere on the page and selecting `Inspect`. Go to the `Network` tab.
 
@@ -64,7 +66,7 @@ Missing library dependencies can happen when we rely on tools that might have a 
 
    ![Filter Operator Util](./images/FilterOperatorUtil.png)
 
-3. In order to find out which library is missing, the best option is to check the UI5 documentation. Open the [UI5 Demo Kit](https://sapui5.hana.ondemand.com/) and navigate to the API Reference.
+3. In order to find out which library is missing, the best option is to check the UI5 documentation. Open the [UI5 Demo Kit](https://sapui5.hana.ondemand.com/1.139.0/) and navigate to the API Reference.
 
    ![UI5 Demo Kit API Reference](./images/UI5DemoKit-API-Reference.png)
 
@@ -114,7 +116,7 @@ Missing library dependencies can happen when we rely on tools that might have a 
 
 Sometimes it is not clear whether a full library should be added as dependency or not. It could be that only 2 components are required from a particular library and therefore it might be faster to load just those two components instead of one full library. Size also matters. And size matters in two respects. First one is the download time. One might argue that this happens only the first time and later the request is cached in the browser. Granted. But also any js file, regardless of the origin, browser cache or network, must be parsed. This processing time needs to be considered when optimizing an application.
 
-When executing performance tests, it is important to keep in mind that nothing is perfect. Network might be collapsed, the CPU is busy doing something else, etc. In order to avoid this, we will repeat our tests at least 10 times.
+When executing performance tests, it is important to keep in mind that nothing is perfect. Network might be collapsed, the CPU is busy doing something else, etc. In order to avoid this, we will repeat our tests at least 5 times.
 
 Usually performance tests are done:
 
@@ -124,9 +126,9 @@ Usually performance tests are done:
 - tests over time to identify regressions
 - and some more...
 
-Let's keep things simple. We are going to repeat each test 10 times and we will simply calculated the average of the numbers. Use the excel `teched2025-CA262-Results.xlsx` located in the root folder.
+Let's keep things simple. We are going to repeat each test at least 5 times (ideally 10 times) and we will simply calculated the average of the numbers. Use the excel `teched2025-CA262-Results.xlsx` located in the root folder.
 
-1. Go back to Visual Studio Code and make sure you have different build folders. You should have at least five:
+1. Go back to Visual Studio Code and make sure you have different build folders. You should have at least five with names similar to these ones:
 
    - `app/incidents/dist_first_build`
    - `app/incidents/dist_build_mdc`
@@ -134,7 +136,9 @@ Let's keep things simple. We are going to repeat each test 10 times and we will 
    - `app/incidents/dist_build_mdc_fl_f`
    - `app/incidents/dist_build_mdc_fl_f_uxap`
 
-2. Go back to the browser and open the URL or the first build: [http://localhost:4004/incidents/dist_first_build/index.html](http://localhost:4004/incidents/dist_first_build/index.html)
+   The following exercises will depend on the names of these folders. So we recommend you to use the same names.
+
+2. Go back to the browser and open the URL of the first build: [http://localhost:4004/incidents/dist_first_build/index.html](http://localhost:4004/incidents/dist_first_build/index.html)
 
 3. Make sure you still have the cache disabled in DevTools.
 
@@ -145,7 +149,7 @@ Let's keep things simple. We are going to repeat each test 10 times and we will 
    - Amount of bytes loaded by the page
    - Finish time
 
-5. Repeat this 10 times, that is, refresh the page with `F5` and write down the values.
+5. Repeat this at least 5 times (ideally 10 times), that is, refresh the page with `F5` and write down the values.
 
 6. Repeat this procedure for all the different builds you have:
 
@@ -162,7 +166,15 @@ Let's keep things simple. We are going to repeat each test 10 times and we will 
 
    ![Results table with cache](./images/results_table_with_cache.png)
 
-Since we are running these tests locally, we all should have similar results. In this case, they clearly show that including as much library dependencies as required will improve the loading time, both without and with browser cache.
+   Please run the tests at least for the first and the final build.
+
+Since we are running these tests locally, we all should have similar results.
+Have a look at the results to see if it makes sense to include all the libraries or not.
+
+In this case, the measurements indicate that including as much library dependencies as required will improve the loading time, especially for the initial load.
+
+With enabled cache, the difference is not that big anymore.
+In the next exercise, we will have a closer look at the requests that are not cached and have a larger impact on performance when the cache is enabled.
 
 ## Summary
 

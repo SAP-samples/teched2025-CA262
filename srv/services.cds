@@ -13,7 +13,7 @@ service ProcessorService {
     entity Processors as projection on my.Processors;
 }
 
-annotate ProcessorService.Incidents with @odata.draft.enabled;
+annotate ProcessorService.Incidents;
 
 /**
  * Service used by administrators to manage customers and incidents.

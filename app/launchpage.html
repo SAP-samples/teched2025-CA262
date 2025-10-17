@@ -4,6 +4,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="img/performance.png" rel="shortcut icon" type="image/png" />
         <script>
             window['sap-ushell-config'] = {
                 defaultRenderer: 'fiori2',
@@ -23,6 +24,14 @@
                         additionalInformation: 'SAPUI5.Component=com.sap.teched.ca262.incidents',
                         applicationType: 'URL',
                         url: "./incidents/webapp",
+                        navigationMode: 'embedded'
+                    },
+                    "incidents-app-lastest-build": {
+                        title: 'Incident-Management-Latest-Build',
+                        description: 'Incidents Latest Build',
+                        additionalInformation: 'SAPUI5.Component=com.sap.teched.ca262.incidents.distlatestbuild',
+                        applicationType: 'URL',
+                        url: "./incidents/dist",
                         navigationMode: 'embedded'
                     },
                     "incidents-app-first-build": {
@@ -76,6 +85,7 @@
             data-sap-ui-theme="sap_horizon"
             data-sap-ui-frameOptions="allow"
             data-sap-ui-bindingSyntax="complex"
+            data-sap-ui-flexibility-services = '[{"connector": "SessionStorageConnector"}]'
         ></script>
         <script>
             sap.ui.getCore().attachInit(function() {

@@ -4,7 +4,7 @@
     "id": "com.sap.teched.ca262.incidents",
     "type": "application",
     "i18n": {
-        "bundleUrl": "i18n/i18n.properties",
+        "bundleName": "com.sap.teched.ca262.incidents.i18n.i18n",
         "supportedLocales": [""],
         "fallbackLocale": ""
     },
@@ -83,7 +83,7 @@
       "@i18n": {
         "type": "sap.ui.model.resource.ResourceModel",
         "settings": {
-          "bundleUrl": "i18n/i18n.properties",
+          "bundleName": "com.sap.teched.ca262.incidents.i18n.i18n",
           "supportedLocales": [""],
 					"fallbackLocale": ""
         }

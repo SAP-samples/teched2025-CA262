@@ -22,6 +22,7 @@ The requirements to follow the exercises in this repository are web applications
 - [Exercise 2 - UI5 Builder](exercises/ex2/README.md)
 - [Exercise 3 - Analyzing network traffic](exercises/ex3/README.md)
 - [Exercise 4 - Analyzing OData requests](exercises/ex4/README.md)
+- [(Bonus) Exercise 5 - Initial Load and Live Mode](exercises/ex5/README.md)
 
 ## Contributing
 

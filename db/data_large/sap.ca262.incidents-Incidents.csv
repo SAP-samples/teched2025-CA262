@@ -1,0 +1,1004 @@
+ID,customer_ID,title,urgency_code,status_code
+3b23bb4b-4ac7-4a24-ac02-aa10cabd842c,1004155,Inverter not functional,H,C
+3a4ede72-244a-4f5f-8efa-b17e032d01ee,1004161,No current on a sunny day,H,N
+3ccf474c-3881-44b7-99fb-59a2a4668418,1004161,Strange noise when switching off Inverter,M,N
+3583f982-d7df-4aad-ab26-301d4a157cd7,1004100,Solar panel broken,H,I8083c065-e6d1-49ff-84a5-5dc2dab42831,1004155,String fuse blown,M,N
+34a3dc5c-3043-495e-88fe-dfcdf369aaa4,1004161,Reduced power output,H,H
+ffbfffbd-e0ab-4e27-a505-4252e209cb15,1004161,Remote monitoring disconnected,L,C
+db28f111-ba28-441b-b153-0b13b3248887,1004161,Strange noise when switching off Inverter,H,H
+723f4011-53ae-43c6-b250-ed699d452e4b,1004155,Voltage fluctuations detected,M,H
+9bc37d20-c160-4cce-aa87-fcdf68fd5a0d,1004100,Surge protector replacement,M,I
+75d51329-d902-4d0b-aca1-c4c14ef28f77,1004161,Power optimizer failure,L,I
+46aadbca-7153-42ec-93de-b6c8a1540e84,1004161,Strange noise when switching off Inverter,H,I
+619a76dc-be12-4977-9213-0af877fa0023,1004161,Water ingress in panel junction box,L,N
+78200bd0-3914-4743-8232-8d1fec44a1f5,1004161,Insulation resistance test failed,L,C
+3dc3ddc1-39d8-4bea-ad8c-ba86f381bd90,1004161,Insulation resistance test failed,M,I
+1abe434f-4904-4e42-9461-a6b4e32932ed,1004155,Lightning damage assessment needed,L,C
+13ec01ca-87ed-4e41-93c0-7b35066bea1f,1004155,String fuse blown,L,H
+1742e542-92d7-42eb-9da7-08404e754c49,1004161,Overheating issue detected,L,R
+45cdc229-1965-48a1-96c8-f8e479169d8b,1004155,System reset required,M,N
+22c6ab37-929e-4281-99de-aeb763bc7400,1004100,Firmware update needed,M,H
+bbcf44e2-7494-4486-9437-941e0c9d2432,1004161,Insulation resistance test failed,L,R
+69fbef6e-4dfe-4c5f-b929-5d29a32387d6,1004155,Monitoring system offline,H,N
+8946b9dd-8acc-4ee3-bbf2-cffaa9507d64,1004100,Connection cable damaged,L,I
+e8a2f6ff-548d-4bc8-871c-a1a0ade55767,1004100,Display showing error codes,L,H
+ae34a343-71f3-41f4-8f72-57918378f0c2,1004161,Battery not charging properly,L,A
+a82f5d56-0db7-4f5d-9720-1011ccf68b92,1004155,Temperature sensor malfunction,H,H
+44bd424d-de70-4922-8283-e0d6f130c2ec,1004161,Performance below expected levels,H,I
+850dfa70-8648-40c8-906d-adde8d964a14,1004161,AC disconnect switch issues,M,C
+0deadcd2-43ce-40e6-bcce-7e857b53c6bb,1004155,Water ingress in panel junction box,L,H
+7d221649-512f-4778-8c59-c0bf8821b2a5,1004155,Wiring inspection needed,M,C
+55efd455-0800-4ab1-8f4b-65c136f0b815,1004100,Lightning damage assessment needed,L,A
+0244aa76-4fab-444c-aa28-1f6b3ca1021a,1004100,Ground fault circuit interrupter tripped,M,N
+a82d39ee-572e-413a-853a-e8105f96e846,1004155,Water ingress in panel junction box,M,I
+4bc2d14c-f472-4182-9fa3-745303e46725,1004161,Remote monitoring disconnected,M,C
+048acf12-be7e-4101-b735-4c742b1e94ab,1004100,Remote monitoring disconnected,H,I
+22c04fc0-39cb-4e11-af42-84daffe8dba9,1004100,Monitoring system offline,M,I
+13054c36-ee88-4f33-8775-b9f392b3861e,1004155,Water ingress in panel junction box,M,N
+1c52d484-3071-45f8-b2cf-82b612671526,1004161,Cleaning required for optimal performance,H,R
+c4016ec3-7396-4e77-b69e-c840f3df7c3e,1004155,Inverter not functional,L,C
+f88c47ba-b0d2-4896-b61b-e5626609897e,1004100,Reduced power output,H,N
+10500512-a82b-41b4-8d6d-328ea794a3e7,1004155,Strange noise when switching off Inverter,L,A
+2c25f8bb-1f92-479f-bc62-b25f9cd6d6ab,1004161,Water ingress in panel junction box,M,A
+17adff4d-5e48-4ae1-84c9-f89cb1de1fce,1004161,AC disconnect switch issues,M,I
+f60c5cb3-3a8b-4501-8c80-ce021f34995a,1004161,Display showing error codes,M,R
+c64779cd-4cd2-4f5d-9b93-8cab4b2c81d3,1004155,Arc fault detection triggered,M,H
+d656c2cf-5e6d-4948-b096-93240c35ce5c,1004155,Monitoring system offline,H,N
+1e2a8e3d-1109-4ba8-8ef9-6d069a7ca25b,1004161,Solar panel broken,H,I
+e29499b2-214a-45c8-9337-6a315d97fe29,1004161,Wiring inspection needed,L,N
+d23483e7-f22c-4a11-b8fe-b802109a7528,1004100,Performance below expected levels,M,I
+8f2bcd52-32e2-4c4b-9244-c43f0444bb88,1004100,Display showing error codes,L,H
+f69ab65e-16fa-4818-8f06-9782962abea3,1004100,Lightning damage assessment needed,M,C
+7f675b00-60f2-40e7-9c1b-0e4c5ac5e3ab,1004161,Strange noise when switching off Inverter,L,C
+d021c29c-a4d8-4f81-bd8f-f8bda919647e,1004161,Display showing error codes,L,N
+2b192e99-3ef8-401b-9175-8a5efaa45d04,1004100,Reduced power output,L,H
+db349d5f-789c-473d-acb0-82b33f98ebed,1004100,Temperature sensor malfunction,L,R
+26c8cd2c-5f9f-4c07-9c24-ff75f9c6b7a8,1004155,Wiring inspection needed,M,H
+f638096d-afb4-4c66-ab5d-d1ee5dce59d8,1004100,Wiring inspection needed,H,R
+0f5802c9-ceeb-4fe5-9df8-16a0cc1dc2f3,1004155,Ground fault circuit interrupter tripped,H,H
+063e4798-6ff5-4a91-82de-6cfd0e982df4,1004100,Micro-inverter communication error,H,I
+ba26d2af-69a5-4157-bcff-8106d0a36499,1004155,Shade optimization not working,H,C
+2a8b68d4-c357-4552-8863-e28e4691e37e,1004155,Display showing error codes,L,H
+bd96d57f-b309-41f8-af20-093dd4c8c546,1004155,Micro-inverter communication error,M,R
+3186d4a9-b8a0-4c95-b3b4-1775c9c2f09c,1004100,System reset required,H,H
+27fb5834-35e1-48b8-a2dd-23de256b42bf,1004100,Remote monitoring disconnected,M,C
+2a7fbb6b-d979-44ce-88dd-bc66878040fa,1004161,Overheating issue detected,M,H
+ec835480-5621-4377-9bb2-5256b6310399,1004100,Arc fault detection triggered,M,A
+d012c481-cbbd-4e8f-80af-02807118fe1c,1004155,Arc fault detection triggered,L,A
+f3486b00-89d0-4c2f-ad43-657af7fa5b2d,1004155,Ground fault circuit interrupter tripped,M,I
+c5ba18b1-86bf-4e71-9b95-19641bebe5a1,1004100,Inverter not functional,M,H
+e039700c-6d92-48e0-8b20-3916c42f8415,1004155,Temperature sensor malfunction,L,R
+77b7cb11-da9b-414b-92d6-55d46b8f68d1,1004161,Overheating issue detected,M,N
+3ce330ba-45e4-4545-ba9b-02eb8c211806,1004155,Performance below expected levels,L,R
+da06ec4b-8667-4a6e-81cb-33afc55a256a,1004100,Strange noise when switching off Inverter,L,I
+ee0dece4-6c10-4e5a-8652-e460ece53973,1004161,Cooling fan malfunction,M,H
+23e9a19d-2b9a-40ec-a37e-3effad0c74dc,1004155,Reduced power output,H,R
+6ed10c00-1d04-488f-ba9e-5fb14348c735,1004161,Electrical cabinet door open alarm,H,C
+46da5145-eaf6-4f04-93c4-6126279cd172,1004100,Voltage fluctuations detected,H,I
+3dec55df-5aa7-44c9-97a1-b1218a479f2e,1004155,Connection cable damaged,H,N
+90aec418-5354-436c-9f8d-72f37dc32641,1004155,Connection cable damaged,H,A
+c950589e-5649-41e0-bad1-b23e47fe28f3,1004161,Strange noise when switching off Inverter,L,C
+3064b588-102b-42a7-8def-8e1b9a78904e,1004161,AC disconnect switch issues,H,C
+c5eade22-230c-4e16-8c8d-d350f3445190,1004100,Insulation resistance test failed,H,R
+eb24e58f-2275-418c-8cf7-061efa0c1a39,1004155,Inverter not functional,H,N
+17745df2-9787-49a3-9983-b59b1ba03e5f,1004155,Remote monitoring disconnected,L,N
+1e2e4342-bf00-4ef8-b49f-59c36f17b2b0,1004100,Performance below expected levels,H,A
+df28ae9e-f89b-4246-83c5-b5b2e31de522,1004100,Arc fault detection triggered,H,R
+735849d2-a3ce-45cb-a756-3980fbe50a87,1004161,Battery not charging properly,L,R
+b0f95e24-903e-4613-805f-e9e7c18de7b3,1004161,String fuse blown,L,C
+f405b02c-9ac9-4af5-bb30-98897ea85127,1004161,Ground fault circuit interrupter tripped,L,A
+bdcce5b3-9ae4-4f41-99c6-d35c9b4c8926,1004161,Micro-inverter communication error,H,C
+8850228b-fd51-48c7-abd1-63af174d5aae,1004161,Firmware update needed,L,N
+7854f6d3-a039-4525-ae0d-b718d34d1a74,1004100,Strange noise when switching off Inverter,M,I
+917a20d2-5575-416a-afb7-30543f059e0a,1004100,Temperature sensor malfunction,L,I
+2b7233be-29c3-4d33-99aa-a69ff877ba62,1004161,Connection cable damaged,L,N
+952eacda-8ee5-45a8-ae66-a38fdd3f5f4c,1004100,Grid synchronization problems,H,C
+82aa110e-83d6-4b3b-a448-dd4bc513432e,1004161,AC disconnect switch issues,M,A
+1fda7f22-471c-48f4-9ac8-f75603a09c8c,1004100,Performance below expected levels,H,C
+4768a0c0-1c49-4b0f-abc8-b6511718f956,1004161,Monitoring system offline,L,N
+97784e28-de1f-40fc-9cb8-398ca0dafb8c,1004155,Voltage fluctuations detected,H,I
+e1b24f02-8b36-4a19-a46a-1eb15a4539d1,1004100,Shade optimization not working,H,N
+0023a546-0cdd-4a44-a8f8-cb7b559c131b,1004161,Temperature sensor malfunction,M,A
+6566bb8a-d55a-4019-a5d6-18d8e4cfb259,1004161,Voltage fluctuations detected,H,N
+1dbef272-5f03-44cc-a83b-55524246c2f1,1004155,Remote monitoring disconnected,M,C
+860fe584-cf1d-4da3-81b1-9a9d7c522aee,1004155,Inverter not functional,M,C
+8428b8e4-22c0-482e-a160-62deeee0cc50,1004100,Remote monitoring disconnected,M,I
+7817f0d8-38e9-44a6-8236-a17c522573f8,1004161,Temperature sensor malfunction,L,C
+b8e3e050-8547-444b-9413-956b90d32379,1004100,Reduced power output,L,A
+b2569ba5-85ae-4fbe-b92d-84573d6392da,1004161,Reduced power output,M,I
+e2cd5f27-5247-4b78-9cb8-6bca47d1634c,1004155,Firmware update needed,M,R
+97f0f105-ebb2-4bb9-92c5-f4787b702846,1004161,Temperature sensor malfunction,H,R
+fa90bf54-1251-4cd4-bae9-e327ca1a50fb,1004161,Ground fault circuit interrupter tripped,H,R
+784759fa-3c0e-439a-a4c5-77ab1cd26ead,1004100,Monitoring system offline,H,N
+a4b1817e-72d0-4b15-ae5f-67ee0b123e40,1004161,Shade optimization not working,H,I
+05383ad7-f85e-435e-b7b4-0dd10ab598b5,1004155,No current on a sunny day,M,I
+755f314c-484a-432b-9825-0a5d6fafe4ee,1004100,DC isolator switch failure,L,C
+5117688a-8331-4250-a760-e83aa27c0e01,1004161,Cooling fan malfunction,L,H
+c9462c0b-975f-4b17-958c-5fded8b50486,1004100,AC disconnect switch issues,H,A
+e4df5c39-774b-4376-9e4f-2578b26302c8,1004100,Ground fault circuit interrupter tripped,M,H
+4c3341e1-850f-42f2-8e7b-d82c96578c59,1004155,Voltage fluctuations detected,H,N
+a573ec43-1041-47c3-be7b-8661dc003f93,1004100,Power optimizer failure,L,N
+06589671-e51f-474d-b036-f831472c3035,1004161,Temperature sensor malfunction,H,R
+ce0771a2-3c2a-4733-ac76-96c9a2c11ddf,1004155,No current on a sunny day,L,A
+458493fc-5240-47d4-b336-5968333a8014,1004100,Battery not charging properly,M,I
+2013d8f7-f5e0-4105-8aa5-b90d971e6e63,1004100,String fuse blown,M,I
+2d1260ec-9d67-4d22-8348-a519882e5883,1004100,No current on a sunny day,H,C
+0a7f38b0-6e41-460f-8f29-f8c129c5d17d,1004155,Reduced power output,M,H
+091a3ddc-e32c-41d6-8c72-1dd5fdfb9247,1004155,Lightning damage assessment needed,H,C
+7766f145-613c-403d-9e16-1b10a63ac8a5,1004161,Power optimizer failure,L,R
+8898b6e4-eaba-4561-bc05-3a07cbb8b931,1004100,Micro-inverter communication error,M,C
+8c330cf6-6089-4c66-81be-13db05902d8a,1004100,Surge protector replacement,M,C
+f0017cd3-a335-4b21-9eb8-2a5b62eea3a3,1004161,Remote monitoring disconnected,L,C
+043627bb-f678-4943-afb9-0d97ddb2b2d1,1004100,No current on a sunny day,L,A
+e8d4ccd9-b1d6-40ca-82bb-dec908ed9513,1004161,Reduced power output,M,H
+617eca5b-0e8a-4208-9742-3726a4cbb9e9,1004100,Meter reading discrepancies,L,A
+06690072-2423-4f85-a97d-64534ecac5dc,1004161,Overheating issue detected,L,N
+4501b256-d9a4-4d6d-b1e7-7c58241d45e7,1004155,Solar panel broken,L,I
+7b649a3c-8a7c-4602-ae7c-89d54f88e44a,1004161,String fuse blown,M,R
+410548ad-ba23-4162-89fa-2289e0a15643,1004155,Display showing error codes,L,H
+330372d2-2640-4b04-b3c5-997ada7f6f1f,1004100,Voltage fluctuations detected,M,N
+4486242b-9fe5-4613-aa23-0d30a1ea43c3,1004100,No current on a sunny day,M,C
+3497fca9-94e3-44f8-90e6-92454281915f,1004155,System reset required,L,R
+ed141155-56ae-4b6a-b206-9c890b9fbae6,1004161,System reset required,H,R
+8ded446f-9289-4f2f-9a63-cdb852b01f1f,1004100,Meter reading discrepancies,H,R
+22158c51-1666-4aeb-a7d6-bdac180bfef6,1004100,Ground fault circuit interrupter tripped,M,A
+323e3699-7729-4087-a562-74299762fb4f,1004155,Grounding system check required,M,C
+57f5237a-fac3-4fc6-9532-6634f5358d79,1004155,Lightning damage assessment needed,H,H
+95313bdc-27a4-4b83-9041-8be6c50ffa9d,1004161,Reduced power output,H,N
+60af70c3-b5d7-4c6d-8330-b1c666d503d4,1004100,Inverter not functional,L,H
+a594bade-9a97-4500-b4c4-7f7516af2ef8,1004161,Power optimizer failure,H,R
+24d32a8e-e516-4990-80c6-2ea29c2579c9,1004161,Remote monitoring disconnected,L,H
+61fe529d-068d-4e49-84d9-da35b0f4add1,1004100,Water ingress in panel junction box,L,N
+237f226e-3f7b-462a-9c09-2f6358d23488,1004161,Performance below expected levels,M,C
+5f549b47-78b9-4d6a-8b88-e570cce26f45,1004155,Firmware update needed,H,R
+2865e628-cd89-4267-8caf-2cfe2c4633f7,1004155,Reduced power output,L,R
+8948b295-6603-488e-b277-cd4d89ac1da8,1004100,Overheating issue detected,M,R
+8c8124eb-5205-4e76-89e9-47854f080701,1004161,Cooling fan malfunction,M,I
+da19f9e5-4791-4234-8660-3eb16b396e84,1004161,Voltage fluctuations detected,L,C
+980f3914-ef79-49ea-b180-4c4d87c2fe5a,1004100,Display showing error codes,L,H
+a987ba5c-af62-4aa6-9937-f39ea0588a68,1004100,Grounding system check required,M,N
+e4556f07-e649-4b90-b713-b4018bb73f18,1004161,Display showing error codes,H,A
+f9dd1b6a-edca-40c7-be0d-0a9d43c9e478,1004100,Grid synchronization problems,H,H
+11553ea9-e560-4384-8fc8-19f7bc00f445,1004100,Arc fault detection triggered,L,R
+729a2740-59ea-478f-a425-bb549a851417,1004155,DC isolator switch failure,L,R
+e549ae05-6f5c-4efa-908c-e907432f28ab,1004155,Display showing error codes,M,C
+4c3607c7-a54a-41e8-b238-396fed771f6d,1004155,Meter reading discrepancies,L,R
+81daa14e-1c29-42db-8826-3f04a4735dfa,1004161,DC isolator switch failure,H,A
+0d675c3d-b042-46dc-996a-eff379606b6b,1004161,No current on a sunny day,M,C
+fde0a68f-3724-488b-9f83-56e415e47163,1004100,AC disconnect switch issues,M,R
+85346f8f-a7b4-435e-87b0-daf986f7eae8,1004161,Display showing error codes,M,H
+afd0174a-3b81-4c2b-baa4-efa2a35bd184,1004161,Micro-inverter communication error,M,R
+debc3dfb-547b-4b3c-b478-e7808b33bafc,1004100,Wiring inspection needed,H,H
+ff2c1454-bbea-421b-bf97-a338ee7ce6cd,1004155,Temperature sensor malfunction,M,R
+c7d01658-f9fc-4d17-91f0-f838f240096b,1004161,No current on a sunny day,M,N
+193c39c6-a3b0-4dba-a9a7-87fc602a04a0,1004100,Inverter not functional,M,H
+a81440ed-6e18-40d9-8438-b40874ea29c2,1004100,Surge protector replacement,L,H
+8913bdaf-c9fd-4218-a9ae-12d76bdd275f,1004100,Water ingress in panel junction box,L,A
+37704b56-d969-43a7-9511-a1cd2c952efd,1004100,Micro-inverter communication error,M,R
+ea9ce84a-2704-4ed2-8a6d-5f9e5c234794,1004155,Display showing error codes,H,A
+73e8ea3e-5b9d-44dd-9db9-a488ca4f7ae9,1004100,Battery not charging properly,M,R
+1620a16c-3c74-4006-9258-e052dd904aa6,1004155,Water ingress in panel junction box,M,R
+01e1e6cd-154f-4166-83ad-cced5922887f,1004100,Power optimizer failure,H,R
+0cc766f6-ef50-4c32-a1dd-3d641864f266,1004161,Ground fault circuit interrupter tripped,M,C
+32a8cb21-8eef-463a-bc03-85f045083572,1004155,Grounding system check required,H,H
+2db6a61e-624a-4afd-adfe-3e5861e81962,1004100,Overheating issue detected,L,R
+8c9c91e1-6eb8-4b19-b8e0-8869b5313a3f,1004155,Shade optimization not working,M,N
+ee3d3c35-c6c3-49b1-b5ad-771e513ed59b,1004161,Micro-inverter communication error,L,R
+b3ba8b8b-9766-4be7-b075-7c5bf2362ea9,1004161,Electrical cabinet door open alarm,M,I
+5db30917-fadb-4473-992e-7085399b4096,1004100,Water ingress in panel junction box,L,N
+2af41018-b9c0-43a0-824e-c4631c770e40,1004100,Display showing error codes,M,A
+17c9169a-c4ad-463f-bf38-43f4fe096e61,1004100,Display showing error codes,M,R
+a69e6ebb-edc4-4dab-ba14-d52d455b1998,1004100,Surge protector replacement,H,I
+4ef5722c-d5be-4a17-8dfd-f130e57db5b3,1004155,Grounding system check required,H,A
+6b946222-9030-4770-89dc-44d5caa13b19,1004155,Ground fault circuit interrupter tripped,M,C
+a670d8dd-2083-4b4d-9700-c708e8b0d199,1004155,Cooling fan malfunction,M,H
+f6ef2264-625e-456f-94a3-de530557e8f0,1004161,No current on a sunny day,M,N
+65499199-a642-4fbc-b64a-cb0ecbedadb0,1004155,No current on a sunny day,H,A
+11cd4eff-accd-4e1e-9175-65d7d61a2606,1004100,Cleaning required for optimal performance,H,N
+53d3340b-2f32-48f8-bf66-0da7781cbfa3,1004155,Remote monitoring disconnected,H,N
+38f381ab-0aee-4b44-aecb-50786d1009f8,1004161,Cleaning required for optimal performance,H,I
+71323cda-aa83-4770-9dc1-54c9bc54204b,1004155,Temperature sensor malfunction,H,C
+f1dec94f-cae4-4d4b-9e1c-8d557c080fde,1004161,Insulation resistance test failed,H,A
+50bc2316-3c67-4530-8936-b3a91aaa3d15,1004161,Temperature sensor malfunction,M,R
+e5bf953c-f8c4-428e-a40f-ec62abe03be7,1004155,Solar panel broken,H,A
+d5701d73-7784-435d-91b7-dfea0ce9bad6,1004100,Ground fault circuit interrupter tripped,M,C
+ca25b0a6-071e-4538-9072-0874b5618e04,1004155,Display showing error codes,H,R
+925d01fb-7f6e-4b35-93cc-1962349ade60,1004100,Cleaning required for optimal performance,M,A
+d4e65a0e-02a0-47f4-8f43-24810f6db75b,1004155,Water ingress in panel junction box,L,R
+aa9e4ad5-09a0-407b-9c2a-0e5f31c1d5eb,1004161,Water ingress in panel junction box,L,R
+64cf0aba-06b4-4550-8657-2a041e5296a3,1004155,Micro-inverter communication error,H,I
+ad731ab7-c04c-43c0-8270-98d66c84d85b,1004155,Reduced power output,H,R
+768a223d-a1b1-4608-a331-103714424f05,1004161,Ground fault circuit interrupter tripped,H,A
+c5db7c27-79d5-415d-ab6f-d3e3053577ce,1004155,Insulation resistance test failed,M,R
+086629ab-4f49-4082-8614-a183f1345e6c,1004100,Power optimizer failure,L,H
+8866bbf8-9f00-49d1-b538-9e828720d667,1004100,Voltage fluctuations detected,H,R
+d387bb5c-1b57-4df6-82f4-a45a556ad199,1004161,Surge protector replacement,L,A
+6d9d2211-63a2-4e8f-8d70-7b934cac835f,1004100,Inverter not functional,M,I
+fc780535-2a63-4fc1-9eba-b7f110c3dbd3,1004161,DC isolator switch failure,H,I
+78c7e339-1ca9-400f-be52-e7b611dace77,1004100,No current on a sunny day,L,N
+73ba16c7-0b55-4200-8de0-61284ea4f2bb,1004155,Display showing error codes,H,N
+d9a98fbf-2637-467e-8c91-88fd04bcbf0f,1004100,Surge protector replacement,M,R
+feda811c-2b46-4337-a6e5-679d19a644c5,1004155,Micro-inverter communication error,L,N
+4ff0525f-49b8-46a8-9fd3-636b4ad48eb9,1004161,Firmware update needed,H,N
+cd9c6b36-8bba-43ed-8d0a-2fe7b77d78f9,1004155,Shade optimization not working,H,A
+1f5c4825-55c1-44b6-8f0f-4d591a26a823,1004161,Electrical cabinet door open alarm,M,H
+ea8b554b-d2df-45f9-8ab9-65b4fb71e99f,1004100,Battery not charging properly,H,C
+efaeda19-aa89-46f4-b900-abfe47599da5,1004155,Battery not charging properly,L,C
+d58618e8-24cb-47b7-b2ef-0697647f588b,1004100,Lightning damage assessment needed,H,A
+94d950f8-592c-43e9-913f-6a274effb735,1004161,Micro-inverter communication error,M,A
+244d5234-9b77-48ba-9a62-d11ec6708701,1004100,Grounding system check required,H,A
+2ab6ebbe-84d9-465b-accc-4471209e15ca,1004100,Temperature sensor malfunction,L,N
+506ce9d5-e761-4d8f-8257-19a0e33f83c2,1004161,Solar panel broken,M,C
+287e8be3-0459-427c-af9d-8db8d653e74b,1004100,Water ingress in panel junction box,L,C
+f909ae9f-3003-4058-8fd3-5b1fed678855,1004155,Micro-inverter communication error,L,N
+b73398d4-048a-4948-be8f-b623b758eeca,1004155,Cooling fan malfunction,L,A
+b4a7254a-e918-4030-896d-c9af773ed6f5,1004100,AC disconnect switch issues,H,R
+6b6e412a-927e-4e3e-858a-af42967cc7bd,1004161,Surge protector replacement,L,R
+f4e2a598-5613-4f4b-a5a5-af19d215dc36,1004100,Wiring inspection needed,L,H
+6986d965-5f65-4ab8-87df-f7e9ee846308,1004100,Micro-inverter communication error,H,C
+f6ca7d77-dd15-4db0-882f-1445059e1133,1004161,DC isolator switch failure,H,A
+80af2def-8188-4e15-b8c0-34b20a9e8b25,1004100,Remote monitoring disconnected,L,I
+2c312f3c-25f8-4aeb-9be0-05f1f1fc7378,1004161,Inverter not functional,M,H
+a2144fc5-7d8a-4654-937d-201e0759f871,1004155,DC isolator switch failure,L,A
+9bc7dec7-0dcd-41f5-a37b-cbfbe1aa4452,1004155,Battery not charging properly,M,N
+36ba36e4-2e7b-404e-a8ab-c176c23a3464,1004161,Micro-inverter communication error,H,H
+6d5b9a9e-8192-4531-8667-9827e7a29913,1004100,Display showing error codes,M,C
+b3e9ef68-1a4f-4c50-b87b-1c87674fe4d6,1004100,Power optimizer failure,H,R
+fde4c760-fbe0-4a1a-a838-db4430ddb24a,1004155,Cleaning required for optimal performance,L,A
+a5d33510-1748-45f8-8c21-cb5031688b71,1004100,Overheating issue detected,L,N
+14dcc1cf-dd48-43a7-95e5-971f7f965aed,1004161,Battery not charging properly,M,I
+dac250c7-1111-48a1-8224-3560d0475266,1004155,Strange noise when switching off Inverter,M,I
+50fa862b-a1f7-494a-96dc-8a21dda805d5,1004161,Wiring inspection needed,M,C
+84918ae3-9327-418d-a4a3-0f53706058cc,1004161,Inverter not functional,H,C
+9dbae5ff-d573-42c4-b32e-aebf68cea27c,1004155,Surge protector replacement,H,A
+ccdca7cf-177e-4758-854c-4f0487a94d34,1004161,No current on a sunny day,H,A
+c7b6db1a-6b3f-4408-a2bc-dc86358a12d0,1004155,Power optimizer failure,L,R
+98b6250b-9477-4adf-8d86-f9edb1f56c13,1004100,Voltage fluctuations detected,M,H
+5b2de4a2-35ec-42d5-8244-81cc494e689c,1004155,Monitoring system offline,H,I
+3c554362-7055-4b00-ae70-6cb388215c18,1004100,Performance below expected levels,L,I
+a3c85ade-6cbb-4720-ae99-e41ac70741db,1004155,Grounding system check required,M,A
+4b48f7ba-00c2-432e-a63d-d7dacd555b53,1004155,AC disconnect switch issues,L,A
+c6fd2791-4df0-4cb9-a93b-2dae7204a7b6,1004161,String fuse blown,M,R
+4df5b944-6e63-4406-b117-151b83fc59a2,1004100,Reduced power output,H,C
+2192cfbb-ed9d-4d3a-a4c1-140540d89a4f,1004100,Overheating issue detected,L,H
+d84e5221-83a7-41db-aca2-70bc299f3d27,1004161,Meter reading discrepancies,L,I
+86bf82f9-e29c-409c-9f3a-bbf20f4830c8,1004161,Firmware update needed,M,I
+830ae180-7027-4431-8e5d-4b7503bae54b,1004155,Electrical cabinet door open alarm,H,R
+a4ea3f8c-f3cb-4312-9582-e0fc549d59c8,1004161,AC disconnect switch issues,M,A
+9849c53d-00e6-4d23-a429-542f2d75f7f6,1004161,Temperature sensor malfunction,H,A
+a99952dd-5593-4b28-9b4c-3546bed13518,1004161,DC isolator switch failure,H,H
+89fd04a1-e20e-4480-a7f3-592009e6f4ce,1004161,Lightning damage assessment needed,H,N
+1145ed61-d2d4-493f-b635-3ef3120c485f,1004100,Wiring inspection needed,L,A
+2f20b826-dacd-4501-ad36-ff845dee398c,1004155,Firmware update needed,H,A
+02845d0e-4aa7-4008-968b-ac3fae8c5561,1004100,String fuse blown,M,I
+3066caaf-3d72-438b-a539-3c75c70e2694,1004100,Solar panel broken,L,C
+31e7092a-d547-4163-a39d-95017d62704b,1004100,Water ingress in panel junction box,L,A
+bd58b7b2-b154-4943-a299-d58d307989d3,1004161,Display showing error codes,H,N
+c85362c3-9801-41a5-969c-9c2bf3e99148,1004155,Cleaning required for optimal performance,M,H
+85b2f069-dd30-44d5-8b67-a3c6fb17798e,1004161,Grounding system check required,H,R
+4790ac31-1a07-4a33-ab03-cc4fd812357c,1004161,DC isolator switch failure,L,R
+a06f3701-7c79-4942-b5a6-a6709615a7b8,1004100,Electrical cabinet door open alarm,H,N
+621be620-1b8e-477a-879d-259f9e9c79d9,1004155,No current on a sunny day,M,C
+ea35b817-2b3d-4956-94b0-6fbcf2a3044a,1004161,Remote monitoring disconnected,L,R
+935271d6-7f38-415d-a854-4797e2b0d505,1004100,DC isolator switch failure,H,C
+2345d544-65d4-4eb6-b1c0-20a9fdb8e08a,1004100,String fuse blown,M,H
+8faa96f8-1424-4de6-bdf3-cd7ef305b0e4,1004161,Surge protector replacement,M,N
+1f3f7ec0-2197-45c6-8e2f-5f9aa766cfa8,1004155,Voltage fluctuations detected,H,R
+7873889f-da0d-4388-8b95-27e59d7fe71e,1004155,Strange noise when switching off Inverter,H,N
+c831c28c-1af3-45a6-947d-0f90274cc70f,1004100,Lightning damage assessment needed,L,A
+a68a1087-0509-4932-a590-8d3a645833dd,1004161,Shade optimization not working,L,C
+81ed3320-8555-473c-817a-8a22a41e0f5c,1004155,Battery not charging properly,L,C
+5cc18d5c-1c44-4b6e-8c9f-390310688e33,1004155,Remote monitoring disconnected,M,R
+e7693eb3-dbe6-4542-8fe6-070e09384fe0,1004100,Strange noise when switching off Inverter,H,C
+d9fb8375-40b1-4bd0-bd87-8f9f83a6d80c,1004161,Surge protector replacement,H,C
+fb79dc6a-16bb-427a-a7e0-b5ae13d7e1c1,1004100,Grounding system check required,M,C
+73b4f176-9b77-4ca2-b127-6fb0a2f28d03,1004155,Lightning damage assessment needed,H,C
+138b142e-aa67-4e0c-8ca4-bf268a450116,1004100,Reduced power output,H,R
+6fe8a79e-1191-463d-ab7c-89db5c4f26d9,1004155,Cooling fan malfunction,L,N
+78c2b2c9-18c0-49be-890d-b26f6073dbe0,1004155,Connection cable damaged,M,C
+084f1125-1328-467d-a563-1910512000ca,1004100,Battery not charging properly,M,R
+82f26231-07df-4b6b-8863-88016d87b403,1004155,Meter reading discrepancies,L,C
+a5b87917-c5b0-4b07-b457-5850c711a85a,1004155,Lightning damage assessment needed,H,C
+334cf1d1-a784-4a43-b986-9b36febe4f06,1004155,Voltage fluctuations detected,M,I
+2864e705-9f15-45c9-8229-fc10ee20156d,1004161,Shade optimization not working,H,I
+91a5c60d-53a5-4d99-ab70-4b74f29054f6,1004161,Micro-inverter communication error,H,H
+c5df200d-7131-4dc3-abca-31d7eeeee4dd,1004100,Monitoring system offline,H,H
+7f553f9b-21f2-46ea-949e-175aabc6fb1a,1004100,String fuse blown,H,A
+23a0a96c-ec6d-4727-8930-cd143d7534d8,1004161,Temperature sensor malfunction,M,A
+2aa69f16-1234-41a6-9191-618c91239b88,1004155,String fuse blown,L,N
+a33081f6-d517-4732-ba0e-743c0eef70bb,1004161,Meter reading discrepancies,H,I
+0bfbe97b-a78e-4a41-9aa6-630efe57f3c2,1004155,Cooling fan malfunction,L,R
+3b1ca496-adda-4198-a400-09748dac51c6,1004161,System reset required,H,H
+0f68015c-2c09-41dc-80b5-b78d03ac4fe1,1004161,Inverter not functional,H,R
+bcf7a98f-d6dc-4f6d-8d4b-fb6208e08e3d,1004155,Arc fault detection triggered,H,C
+651e3694-ca4e-414c-9272-a1bed7da30a5,1004100,Display showing error codes,M,H
+9e6be35d-87c1-4feb-8cc9-50d4579277f9,1004161,Overheating issue detected,M,N
+10b3d9ef-ea83-40a3-9eaf-de475532ddeb,1004100,AC disconnect switch issues,M,H
+d6dfb4d2-9c9d-4031-b1f6-ac3ef44d90e1,1004155,Firmware update needed,M,C
+b12d51a8-f7df-4f54-a175-333d41f8e128,1004100,Battery not charging properly,L,I
+363f5241-a2e2-49e7-8109-8a599ec0a25f,1004100,Cooling fan malfunction,H,R
+b7eff2f0-2eb2-403a-9788-55300ce34a0d,1004100,Electrical cabinet door open alarm,H,H
+f49f4fe3-13d6-4bd0-8fea-84e621e6b35e,1004100,System reset required,M,I
+895d8c9f-4757-4fc1-8874-b122d16b0f04,1004100,System reset required,M,N
+c90addf6-db3a-44a5-b612-2b6d4b3fcac7,1004100,Strange noise when switching off Inverter,M,H
+e889c3b4-40b7-4e89-861d-a509445aaf1e,1004161,DC isolator switch failure,L,A
+31c4a048-86e1-4018-a962-a6673f6d697f,1004100,Cleaning required for optimal performance,M,N
+0096d6cd-e6cf-413d-8f52-7491da16cb90,1004155,Solar panel broken,M,C
+7ce3772b-b3c8-4dcc-9ea7-6650f2b1fa83,1004161,Grid synchronization problems,M,H
+4a3ad0e3-3cf1-4484-a9cc-ceb620879308,1004100,Power optimizer failure,L,I
+f274ce9b-84f9-4b53-bb1a-1a844ea3dd56,1004100,Connection cable damaged,L,R
+d5b4cf54-ada6-4d10-8fd7-80cbac68c175,1004161,Power optimizer failure,H,A
+5de019bd-092f-4539-916a-481941e1c373,1004161,Cooling fan malfunction,M,H
+16ee5c23-61ad-4a5d-99f7-2f9db009fefa,1004161,Insulation resistance test failed,M,H
+1813e408-6688-4fb8-9b0a-39197f06c18c,1004161,Overheating issue detected,H,N
+4760aa92-a5ed-460a-8a08-2e5ca8844900,1004155,Voltage fluctuations detected,M,N
+800d6970-2535-4b6c-b0e4-9b7260607b84,1004100,Battery not charging properly,L,R
+8e6b35fe-b773-4c0d-9d6c-d69a59afe874,1004100,Surge protector replacement,L,H
+39bacd3e-86bb-4c22-9d51-dc9c208d04dc,1004161,Connection cable damaged,M,N
+a04af8ef-c08b-4c36-9e51-b47155e08268,1004155,Surge protector replacement,L,I
+ab5dc74e-d3ad-4369-b2bc-8fe200794349,1004155,Lightning damage assessment needed,L,R
+3e502ef3-d708-4fba-ac8b-1f70c11a0204,1004155,AC disconnect switch issues,L,I
+d9251c9f-a1d2-4e1f-9fa0-f1261fbfe853,1004155,Voltage fluctuations detected,H,N
+c7b046dd-0a22-4fa5-8b42-f18540aafc35,1004100,DC isolator switch failure,H,N
+1c5606bb-596b-4128-8f75-7cfce2f4002c,1004155,Grid synchronization problems,M,N
+c8102d6d-973b-490a-8666-091d1411a281,1004161,Lightning damage assessment needed,M,N
+d545899d-7c76-44e9-a519-3804e77ea8e6,1004161,Grounding system check required,H,C
+06575ca4-b818-4279-bfcf-c0b658118012,1004155,Water ingress in panel junction box,M,N
+ba0c67a1-49c4-4284-93e7-9211248911f2,1004161,Connection cable damaged,H,R
+f1f42a5f-d67c-4e6d-9d3d-d61c8ecc5ad9,1004100,Grounding system check required,H,R
+a0d9687c-ddb6-4f66-be2f-c5e4ca826503,1004155,Wiring inspection needed,H,C
+483f765a-2e12-4402-a80d-0437cffa6dab,1004155,Firmware update needed,M,I
+c8c6d0e8-3c8c-4302-9f1d-84868bbd2ca3,1004155,Battery not charging properly,H,R
+20fa1d74-9f4d-4bcc-8518-becdd60f873a,1004155,Grid synchronization problems,H,A
+8b73a9f6-07d2-4589-b4a0-261747adaae1,1004161,AC disconnect switch issues,L,A
+bd5f3ec3-a81f-4f0b-bf7a-9d75382a02a4,1004161,Reduced power output,L,R
+55e13af2-f32b-4a31-98df-b843b8b8e013,1004161,Micro-inverter communication error,L,C
+e5c56fa5-243b-433d-b832-483072af974b,1004155,Performance below expected levels,H,I
+a4a8ae64-7e29-48c8-b92d-469122898543,1004155,AC disconnect switch issues,H,H
+45413561-2c25-461e-9414-f4b0e9c62a57,1004161,Surge protector replacement,H,N
+f7a41954-83a9-475c-a1c3-d442b88e47c7,1004161,Display showing error codes,M,I
+46cd521d-4f9f-4581-aae9-77f205d62c59,1004100,No current on a sunny day,M,N
+bf66a36a-1b19-41a8-a5c8-f55f42d2774b,1004161,Ground fault circuit interrupter tripped,M,H
+830db1ba-6e4b-433b-8b2e-15b2d81291e5,1004155,Solar panel broken,H,H
+f80ca529-38a8-482a-8d41-cef7873d900f,1004155,AC disconnect switch issues,M,C
+dd319a98-0518-41ac-92af-62235f11eebf,1004155,Surge protector replacement,L,R
+81321e8b-ab65-437e-bb90-ba6db2e4a431,1004161,Firmware update needed,M,A
+faa7e6b5-ea08-4a97-bf2c-2dc62b21d541,1004155,Surge protector replacement,L,C
+acb97612-0d3d-4d17-b35c-b2c54173773a,1004161,Inverter not functional,M,R
+d07534eb-af0a-469e-8f8b-2f5852d532f0,1004161,Wiring inspection needed,M,H
+20351f90-7b29-4f0e-92f7-f111bc97a97b,1004100,Connection cable damaged,H,I
+59135c85-d452-4ba6-b615-9e6087645eb5,1004161,Micro-inverter communication error,L,C
+3a60d07f-4381-445c-8d9b-7a29633ea2d3,1004161,Wiring inspection needed,L,C
+7eb72871-8ef6-4774-a72e-aa27184de579,1004155,Arc fault detection triggered,L,N
+be746805-fb97-47ce-80f0-5c83d2bca62f,1004100,Firmware update needed,H,N
+2c0d35e5-5163-45db-ab28-b79ceb344aa0,1004100,Surge protector replacement,L,H
+d5fa3ae4-d148-442b-8a80-02d6bd148a9f,1004161,Connection cable damaged,M,R
+6ca32d06-6d1c-4a07-a6e9-7318aeb6f3c5,1004155,Connection cable damaged,H,A
+1b75a451-2f25-4012-bfa6-bd25aba55bba,1004155,System reset required,L,I
+6e11fc04-da16-4442-85a5-c209e4204c9d,1004161,No current on a sunny day,H,R
+348f2310-9f48-48ca-980a-a5001c6a0441,1004100,Surge protector replacement,L,C
+75a7701b-920e-46b2-8106-c6f456b828aa,1004155,Arc fault detection triggered,M,H
+9fde4ae1-729f-4a55-92ee-4b8dbe6bdad8,1004161,Shade optimization not working,H,I
+39b5a067-6fdc-452d-b7ec-060b71ea31a0,1004155,Performance below expected levels,M,I
+cabae462-cc25-4f95-b52e-e6c75d50a902,1004100,DC isolator switch failure,L,H
+834abf58-5e83-4be0-8afd-9dee7b765e7d,1004100,Water ingress in panel junction box,M,A
+e952a272-e9c0-4c3e-9719-456bda6954ea,1004100,AC disconnect switch issues,H,R
+d13ca45a-5df4-4a52-8767-cb875fbc2914,1004161,Reduced power output,H,A
+e47e6dc0-06f8-493d-8f6a-63678f894429,1004161,String fuse blown,L,C
+40263ca8-c8a2-43dd-ab17-d5d960a1902f,1004100,Meter reading discrepancies,H,I
+ea416073-46e6-427e-ada0-80c1525c8e6f,1004100,Cleaning required for optimal performance,L,H
+a03a3d79-970c-4710-b795-984ee9f415d6,1004155,Power optimizer failure,H,N
+9eb77206-b748-4d4c-87f0-52087861c8a0,1004155,Grounding system check required,M,H
+3f614f42-027d-4c61-9765-a5e2ead735b3,1004155,AC disconnect switch issues,H,I
+67d35886-5d31-497b-8db4-ab502407c03c,1004161,Electrical cabinet door open alarm,M,I
+e8297c73-3e07-4bc0-ba5e-1b4a25f89c2a,1004161,Overheating issue detected,M,H
+c0c51974-59c9-4405-bcc3-e17692755a9b,1004161,Cooling fan malfunction,H,R
+0b2f8e51-1797-43c0-a976-0c510902f289,1004161,Insulation resistance test failed,L,I
+d851e863-5858-427c-bb0e-a55b8b301cee,1004161,Reduced power output,H,H
+fcad8f23-11a7-4840-a116-71484aa26627,1004155,Insulation resistance test failed,H,C
+dedf918e-e4b3-4190-9ba6-4405ac73d5bf,1004100,Ground fault circuit interrupter tripped,H,N
+a57caa11-e559-4b41-beec-3560faa2d2bd,1004100,Solar panel broken,L,I
+56868718-1f1e-472b-9227-cb8a8b66b713,1004155,Arc fault detection triggered,M,H
+83e9a689-cb62-4709-96e6-5644b15b49fc,1004100,String fuse blown,L,N
+9469f11f-8354-4818-8395-77359a6c21e7,1004155,Display showing error codes,L,H
+7c45f038-239b-4f2c-9b58-4606c2bd1d2b,1004100,Surge protector replacement,H,C
+2d89cafd-1003-4a99-8a58-bf3673700aa7,1004155,Wiring inspection needed,M,I
+ea584b81-b4e8-453a-b9a9-693755f24b69,1004155,String fuse blown,M,I
+b47cbaa5-48ba-413b-b0ab-b6c63dbb25ca,1004161,Lightning damage assessment needed,H,R
+fdbead88-03f3-4707-8f26-87e2ae0e4774,1004100,Solar panel broken,M,C
+499ba078-10ea-4ff6-bfd9-dda5215ef611,1004100,Strange noise when switching off Inverter,M,I
+3f2f14ff-62c4-4314-922a-95c9afa57669,1004161,Meter reading discrepancies,L,N
+c01ab1c8-81ea-439f-86a5-f0c809d0a7b2,1004155,Lightning damage assessment needed,M,A
+9141d894-ca07-44ee-8356-8d05ca0adde4,1004100,Ground fault circuit interrupter tripped,M,A
+952255da-26cf-41a3-8377-6afe448831a3,1004155,Performance below expected levels,M,H
+49a22a16-fcc0-4927-ad00-e99341097463,1004100,Connection cable damaged,L,N
+e8d374c5-0011-4284-bd66-58f2966c0200,1004155,Lightning damage assessment needed,M,N
+e607df7e-a491-40e0-aeac-062eaecb2e83,1004161,AC disconnect switch issues,L,R
+1e691d5a-f142-4c37-be63-6acf02ab607a,1004155,AC disconnect switch issues,H,R
+7c86a5e2-25de-4918-8a9d-2572ecef9adf,1004100,String fuse blown,M,C
+3f4561fe-32e6-400a-9f7d-260fadaa136f,1004155,Meter reading discrepancies,L,C
+f09fb9e9-fb1d-4b86-8a83-8b9229ea827a,1004161,Water ingress in panel junction box,L,H
+6c9fae91-ce88-40db-a1c8-ba510afdad9b,1004155,Remote monitoring disconnected,H,R
+f3157f26-1930-4fcb-ab03-4a86ac9c659b,1004100,Battery not charging properly,M,N
+d8669a11-97c2-4f35-bd99-67edf2bd3173,1004100,Display showing error codes,L,C
+eb222d49-f1d2-445a-86c6-7cc83833dcf4,1004155,Shade optimization not working,M,N
+2fbb8541-baf9-4be7-a730-90a1a8cef03c,1004100,No current on a sunny day,L,A
+9b45f74c-cd84-42bc-92a0-b045a70b18de,1004161,Remote monitoring disconnected,M,A
+2ce3423f-9188-4f69-9d07-3aeea98cd613,1004100,Grid synchronization problems,H,A
+d00d5746-24e4-4f18-a37b-18243a9d4816,1004100,Arc fault detection triggered,H,C
+8a678a78-d0a7-4d7a-abee-738eb3ee8a16,1004155,Surge protector replacement,M,R
+a462d94d-e4c6-402f-9d0c-b804d72b068e,1004100,Surge protector replacement,M,N
+76877c65-183a-4499-9405-d317ec58bbfc,1004100,Inverter not functional,H,R
+f878e76a-98a6-4705-a97c-d2cc0b9842b5,1004161,Remote monitoring disconnected,L,H
+1bc7a878-4759-4d88-89db-704d4b46c6fe,1004155,Micro-inverter communication error,H,H
+5f641064-a300-4247-9b60-e931c99ae02d,1004161,Voltage fluctuations detected,M,A
+88b078de-f1a7-4977-ba74-e529a0aff516,1004161,Cooling fan malfunction,H,A
+134c5e42-7f1b-4a7b-bb20-ea7ad16d217e,1004155,Meter reading discrepancies,H,H
+e9be4675-a714-417d-8821-2caca8d055ae,1004155,Lightning damage assessment needed,L,H
+8197e71e-7684-4bb4-abdb-d390f332d356,1004100,No current on a sunny day,H,R
+31ad0ec9-72bf-4fc8-837c-a7fc0bdc6432,1004161,Strange noise when switching off Inverter,M,I
+54b5f1fe-8d22-4ee6-b58d-665773113838,1004100,Grid synchronization problems,H,I
+cc0622ab-f78c-4d12-b77f-13772990b9b2,1004161,Meter reading discrepancies,L,H
+2fe0cdd5-2e8c-4903-9365-f889c48b5b57,1004155,Insulation resistance test failed,M,N
+db21ccce-fc90-43f7-8d67-59b45685ab65,1004155,Ground fault circuit interrupter tripped,L,A
+1880f1df-adbb-477c-919d-9508dd345688,1004161,System reset required,M,A
+7a947f99-ee47-4fb5-afab-27da43778936,1004161,Electrical cabinet door open alarm,L,N
+7fbacf06-3b37-4c04-86f8-385aeb611fce,1004161,String fuse blown,L,R
+18a0bcaa-72a0-49d6-a828-253561c39f91,1004155,Battery not charging properly,L,A
+8f965321-5dbf-4b4b-ab76-211e56f70890,1004155,No current on a sunny day,M,C
+415c3e0c-9810-4f6a-a930-0c093d07db32,1004155,Connection cable damaged,L,I
+3a738802-9238-4df0-a659-a3af98d93331,1004100,Battery not charging properly,H,I
+a4c9d492-a9a6-4ff2-b6b4-06c549734c08,1004161,Cooling fan malfunction,L,H
+7a604905-dfe6-4446-89ef-7dbafaa0fea6,1004155,Micro-inverter communication error,M,N
+a596c7d6-702a-4add-ac53-3fbf3e79468b,1004161,Surge protector replacement,H,H
+d553c000-3813-43da-8b1a-445a22ec7bb9,1004161,Electrical cabinet door open alarm,M,I
+759423c3-8a45-46d9-868e-330ead546ce3,1004100,DC isolator switch failure,M,N
+d3e1e909-a3d1-4e79-9974-0721e319f623,1004100,Strange noise when switching off Inverter,L,C
+d5876909-cd88-4a4d-be68-e43129003e1c,1004100,Inverter not functional,H,R
+e0e35819-d7a7-49df-932f-077e7b892404,1004161,DC isolator switch failure,H,C
+b5dd935a-8b90-4a4f-9776-6af8710d5582,1004161,Lightning damage assessment needed,M,I
+4835cb8e-b686-4f24-9217-f15bed15c479,1004100,Electrical cabinet door open alarm,L,N
+993b44fa-ac8c-4c76-a3ea-d4a315d51707,1004100,Surge protector replacement,M,N
+44d7f45c-5c68-4a03-845a-4738dd47266e,1004100,Performance below expected levels,M,I
+e69f5c27-8fe1-438e-b664-d83859fda020,1004155,Lightning damage assessment needed,L,H
+e1a17fcf-c45d-4fa8-ab25-7d053f0bcf71,1004161,AC disconnect switch issues,L,I
+b029f59e-608a-488c-a55e-a4f2fc957654,1004155,Strange noise when switching off Inverter,L,A
+efa4812d-198f-4d24-a68b-18dae96eefaf,1004100,Wiring inspection needed,L,H
+3a49fdd7-6fac-4273-bdfd-c01544507f16,1004161,Inverter not functional,H,R
+3a9bc6f0-db30-4ff2-bd83-4793e52580e7,1004155,Wiring inspection needed,L,C
+d093bab8-8c11-41f3-9820-f713ddc20ca4,1004100,Micro-inverter communication error,L,N
+eb2fc477-5a99-42a9-88fe-dc851f0d0f4d,1004100,Insulation resistance test failed,M,A
+b25e2caa-4e3b-422e-b736-9d17ac6eb097,1004161,Reduced power output,H,N
+223e0cbe-9bae-483a-bcf9-37a86a544beb,1004161,Cooling fan malfunction,L,R
+67d5bbaa-427a-4100-992a-8ade48f9e084,1004161,Firmware update needed,H,I
+d87dff84-85b0-40d3-a92e-a80e1e844db8,1004161,Temperature sensor malfunction,L,N
+9141c637-805a-4eff-a5d8-664f01017fe7,1004155,Strange noise when switching off Inverter,L,N
+08fc1c9b-3bf4-4a8d-92c3-8808b9538efa,1004155,String fuse blown,M,R
+e2abfe45-74aa-4d2c-ac08-e93639748be8,1004161,Ground fault circuit interrupter tripped,M,H
+2a6826a5-b73a-49c3-8964-eaadbdf0ecf5,1004155,Inverter not functional,H,I
+e39325a4-a519-48fd-b1af-99d166a104d7,1004161,Meter reading discrepancies,M,N
+5fd441b8-2024-47cd-8b63-14d540644b85,1004155,Surge protector replacement,H,N
+a431d6ab-49e4-4638-bae8-bd6dbf4f65e3,1004100,Water ingress in panel junction box,L,H
+8b394877-4981-428a-a5a2-8e6495acaadf,1004155,Strange noise when switching off Inverter,M,A
+2405ab3b-4bab-42d2-ac8b-21219fc2b46c,1004161,Remote monitoring disconnected,H,A
+06a301b1-ae73-439b-961d-1b904059d763,1004100,Micro-inverter communication error,M,H
+dbda7f91-f4c8-4ba9-856c-6f9dfd4351db,1004100,Lightning damage assessment needed,M,I
+08eb9391-713c-49d9-ac7a-f47eb251c236,1004155,Grid synchronization problems,L,R
+483a5f9e-cabb-4e4a-9e0d-9ff682dfc60c,1004161,Strange noise when switching off Inverter,L,H
+dfd5675b-b475-4df2-9cd8-fc056314f208,1004100,Shade optimization not working,H,C
+2c7680aa-697c-48fa-a0c8-2da50ea6113b,1004155,Water ingress in panel junction box,H,C
+db35887c-2519-4f0c-81ec-afa29e2442ff,1004100,String fuse blown,H,A
+e6cda7f0-cfca-4028-9b53-89c4ea94af28,1004161,Monitoring system offline,H,N
+2223a399-9c52-4aa5-b13f-85f4bb857dfb,1004100,Firmware update needed,M,C
+4d77a0f8-7301-4a17-9006-15647b0e9aad,1004100,Water ingress in panel junction box,M,R
+b089aa7a-619c-476e-a9f1-bdfa5264fc5f,1004161,Cleaning required for optimal performance,H,I
+77616ca1-e486-4bcf-8228-b9e715cc2884,1004100,Connection cable damaged,L,N
+077fd980-5d87-4dc7-b43f-556849c63068,1004100,Firmware update needed,M,R
+bd41cc5a-e8c0-466b-885e-438924004399,1004100,Strange noise when switching off Inverter,H,C
+361810bc-2a33-4a22-970c-175bf8cb9446,1004100,Inverter not functional,H,H
+eb13c8ed-d0ee-4877-abd4-25d2a2908d48,1004161,String fuse blown,L,H
+fb2f0940-bcaf-4d4b-a33c-876efbd6d695,1004100,Insulation resistance test failed,H,H
+9d7a3e97-ea45-490f-80b6-7a9403081f1c,1004161,Connection cable damaged,M,N
+17a13b5d-1fc7-49aa-922b-1c81830da94f,1004100,Solar panel broken,H,H
+b8588130-e204-4ed9-8f40-689249de81fd,1004161,Water ingress in panel junction box,M,C
+bb805d11-677b-4b8b-a6ae-92297f4f7588,1004100,Surge protector replacement,H,A
+969f37e0-ed92-4448-8d4f-087ffea6d5e7,1004100,AC disconnect switch issues,M,A
+0f626daa-6014-495c-9cd0-7070dbb9ebaa,1004155,Wiring inspection needed,H,R
+c0ac1064-5418-423a-baed-986dce5bfa7f,1004161,Lightning damage assessment needed,H,H
+d5da6959-2d4d-4709-94ee-01f479df4abc,1004161,Ground fault circuit interrupter tripped,H,I
+840bb988-0d13-4385-ae80-863592869f40,1004155,Grid synchronization problems,M,N
+f35131a6-e250-4db6-9f1b-309815176a64,1004161,Connection cable damaged,H,I
+b78deb9e-7334-49d1-bbfc-23763558f405,1004100,No current on a sunny day,L,I
+a908fdd6-2325-4133-ac2b-9f2d4157be83,1004100,Arc fault detection triggered,M,H
+0c3944b6-8f19-4aae-9e70-60d4b9bbdc67,1004100,Arc fault detection triggered,H,A
+14379874-9f42-48ae-8ffe-d0f10b8b2f2a,1004155,Overheating issue detected,M,A
+b2f21408-1353-49c5-98a3-8acbc86f860b,1004155,Overheating issue detected,M,H
+866aaa58-6940-4fc4-998b-856cb2f340a2,1004161,DC isolator switch failure,H,A
+f3375861-d038-4d80-95d6-79629ac9ccaa,1004161,Battery not charging properly,L,A
+295aa281-8608-4910-b1f5-4cbfeba6008e,1004100,Insulation resistance test failed,H,H
+17db2efe-9763-4e04-9fdf-19894bea9e3d,1004161,Power optimizer failure,L,A
+72cb68e2-86c9-41fb-b876-40798f09f887,1004100,DC isolator switch failure,L,N
+38ffc487-e9ba-4dff-8c85-e351971d959d,1004161,Electrical cabinet door open alarm,M,A
+374c5082-f887-4364-91c4-5401219b3d8d,1004155,Cleaning required for optimal performance,H,C
+c0dffccf-9449-426e-af90-a5378d1812c2,1004161,Shade optimization not working,H,C
+2ee5bd17-a7ea-4b13-a066-7110d2c6824c,1004100,Shade optimization not working,M,R
+4b34c1c4-3b3b-4524-b4ef-dd8dd7d2ff10,1004100,Lightning damage assessment needed,H,A
+18f5d26c-fefe-45cf-b12a-e9ad9c76e936,1004155,Solar panel broken,L,A
+d4386c25-e1f4-4b2d-b6a9-8232210fe3b4,1004100,Performance below expected levels,H,N
+ea939fd1-b6ff-4d71-a27f-d3b338e474fb,1004161,System reset required,H,N
+3aec4b15-9f05-49c2-a0fa-584c66944187,1004161,String fuse blown,H,H
+2ac50dbe-063f-41e9-8d86-a83035d27325,1004161,Solar panel broken,M,H
+41ba5ce1-45a0-4cce-ab08-b061e463fcc8,1004161,Surge protector replacement,H,R
+a63fe76b-f066-4f17-a1a2-1ce00cadd9e6,1004155,Ground fault circuit interrupter tripped,H,C
+f02df65b-cd24-4d83-98b0-7dad7fd3a2e8,1004155,Grounding system check required,M,H
+36041e41-0567-4cad-b318-8b2a03961ff3,1004100,Performance below expected levels,L,H
+991bf2a9-9f31-4ac8-bd64-0d50fb69d727,1004155,Power optimizer failure,M,N
+e5405242-9862-4162-bbe1-23a4a02e43e9,1004100,Grounding system check required,M,A
+cff3a99f-3629-47e9-8cf1-e96d898f8e75,1004161,Grid synchronization problems,H,A
+75352677-8e99-452d-a382-c5d522ac41ee,1004100,Monitoring system offline,M,N
+1b0160bf-5694-42a6-b9aa-4c3775a30ff1,1004100,No current on a sunny day,M,I
+62fff5ae-6a8c-4356-941e-a3d5ceab391a,1004155,Meter reading discrepancies,M,R
+0884417d-1b69-4408-b510-1b44141b41b5,1004100,DC isolator switch failure,M,I
+9f7bd2ed-9148-4794-95c3-031795676d9b,1004161,Inverter not functional,L,H
+a63ff0bb-2068-40d1-bca9-5f8ada8f3529,1004161,Surge protector replacement,L,A
+23c109ff-e3fe-4337-8457-1726c6122557,1004100,Cooling fan malfunction,L,I
+114f0a40-f382-4770-afe4-68b23ee79730,1004155,Wiring inspection needed,H,N
+642144f2-718f-4823-9805-71ddd059c2d8,1004155,Grounding system check required,L,C
+304f6027-270c-4521-ac7a-e59508a57c71,1004100,Insulation resistance test failed,H,H
+771a144b-b161-4d38-82af-194c9087454d,1004100,Overheating issue detected,M,N
+8a5569a5-9af0-4857-934f-e255a9795045,1004155,Display showing error codes,L,H
+d15d790b-b7b8-4521-b995-0f3e026119bc,1004155,Solar panel broken,M,A
+b6d0b28a-5ad3-4fe0-9dfb-7e3c366a50d3,1004155,String fuse blown,H,H
+e1477b39-2784-4cc1-834d-08f03dfb5807,1004161,No current on a sunny day,L,A
+ecb1fdf9-cad9-440b-860c-7f7218001886,1004100,Connection cable damaged,H,A
+9e4f8ac7-93b3-4f34-bc41-6f0dad7444d6,1004161,Power optimizer failure,L,I
+bd4ca9d5-9de1-4663-b644-978d690aad95,1004100,Solar panel broken,M,A
+b5f377d8-c09b-47a3-8c39-72ce0367e181,1004100,System reset required,M,C
+13694b80-87b4-4519-9eb4-8ec06fee4165,1004161,Connection cable damaged,H,A
+61087486-1788-4157-80fc-d1c90c9e814e,1004155,Surge protector replacement,M,C
+d9779add-eea6-409f-9079-a527a1bd6a10,1004155,Grid synchronization problems,M,I
+67a13bda-6bb8-49f9-a3e8-4442394f0afe,1004155,Shade optimization not working,M,C
+f60ae85e-1c53-4732-b6fa-de7c8f9a0205,1004155,Monitoring system offline,M,I
+17b9a2aa-8536-4342-bbd0-f5c86c9f4cb8,1004161,Temperature sensor malfunction,L,R
+35fe642a-5f9a-44e6-aa4f-58347fae0307,1004155,Temperature sensor malfunction,M,C
+84bd2642-5f2a-4dfc-9a53-7070452ba4f1,1004100,Cooling fan malfunction,M,C
+b7b1dbe9-1d4f-4385-b9a6-6a5c2e07226a,1004155,String fuse blown,L,N
+01516f60-fab1-4d21-9dc7-f77ffa7fa6f0,1004100,Grid synchronization problems,M,C
+5df9669b-c7b6-48eb-837b-6cbf60367165,1004161,System reset required,L,C
+3a51d8a2-6262-4cbe-873f-f4377199fd7e,1004155,Remote monitoring disconnected,M,N
+16e6dfab-bc9e-4cb6-9706-c95c5f8ddba0,1004155,Performance below expected levels,M,N
+8d640569-f543-497e-87ad-dc62a2eb69a3,1004161,Ground fault circuit interrupter tripped,L,N
+e93507d7-2543-4b99-830b-92a8351705d5,1004155,Inverter not functional,L,H
+9f38a26c-e12c-4bff-8255-468667a07c6c,1004161,DC isolator switch failure,M,N
+9fcd5492-ec2c-4c12-9d13-eed5211520be,1004100,Wiring inspection needed,M,C
+0602f515-22e6-40bf-a495-a0c8151c4bb1,1004161,Connection cable damaged,M,A
+c386f1d4-555f-42f7-9fd0-980306daf4e5,1004155,Ground fault circuit interrupter tripped,L,R
+2ac97b19-44b6-4736-a392-da9c00ce7ebb,1004155,Strange noise when switching off Inverter,L,R
+d2b6bc68-ae04-4281-88b1-346efea42620,1004161,Grounding system check required,L,C
+68d2beed-c6ef-4439-bc09-67e1a7363ef7,1004100,Temperature sensor malfunction,M,H
+9db747d8-4d24-4a6a-9177-d3f05d981da7,1004155,Display showing error codes,M,I
+fc99b911-9a9c-4edb-8366-1c710c72b494,1004161,Shade optimization not working,H,C
+8402e58b-70d0-463c-904d-f1858e7ab275,1004100,Inverter not functional,L,N
+810435d6-cd9f-46ae-bf99-6c47c17e9f0b,1004161,Voltage fluctuations detected,L,R
+96c6e6da-79e2-4787-aa2a-0783ec1a91d9,1004161,Firmware update needed,M,I
+578f5701-c730-4504-827c-0a7b4910602b,1004161,Ground fault circuit interrupter tripped,M,N
+c0cb37d4-d36d-454c-b25a-ce04e45a7e58,1004100,Shade optimization not working,L,N
+a4304181-7eae-4587-814b-a79d20ee42f8,1004100,Overheating issue detected,L,R
+4b42892a-94b6-465c-b036-5da9cf969c70,1004100,Micro-inverter communication error,H,I
+97e66917-51cf-4f1c-b92d-d29ede1dc083,1004161,No current on a sunny day,L,H
+4998f543-9505-4961-95bb-aceb7cdf7d09,1004161,Electrical cabinet door open alarm,H,N
+ced88db8-16e4-4d50-be76-665b224a85e8,1004155,Solar panel broken,M,I
+003d1c86-9e29-4c61-a13f-1b3955535e7e,1004161,Wiring inspection needed,H,R
+6264c2c3-7686-4842-a484-b8aa90c91aa2,1004155,Strange noise when switching off Inverter,L,H
+eebd885a-3729-4ef9-a0db-50f03adb071b,1004155,Cleaning required for optimal performance,L,A
+136ef96b-d5ad-47a1-b7b5-caa66f72bd25,1004161,Grid synchronization problems,H,C
+d3eba8f6-288d-4bc7-98da-4d5aa2df88e7,1004155,Power optimizer failure,L,N
+da581233-2867-468b-bcce-fb6410335321,1004161,Wiring inspection needed,M,N
+1284c515-405f-45ce-9025-01fb7813fea7,1004161,Electrical cabinet door open alarm,H,H
+4dc527dc-7ebc-4320-bcd3-1c95169e9cc8,1004161,Lightning damage assessment needed,H,R
+7da35db3-0984-4159-99fb-e183e04ac10b,1004161,DC isolator switch failure,M,A
+ff7d2ce4-4262-4d2b-9d60-c7fa2d9cb664,1004100,Insulation resistance test failed,M,A
+d1831b9e-3c43-434b-9fa6-814953ed4a14,1004155,Performance below expected levels,M,I
+bce4f044-0c6b-4bbf-a489-4b024e4ab6a6,1004161,Overheating issue detected,M,A
+2a0be440-2926-4092-b844-533fe8b36385,1004100,DC isolator switch failure,L,A
+96a1022e-4d38-4c9c-abe6-0862b1474cfa,1004161,No current on a sunny day,M,C
+e9f7e557-e450-4db0-8595-db2dbb83f37d,1004100,Surge protector replacement,M,R
+7e65d7ad-1e36-4f75-9528-c99aab68a46e,1004161,Battery not charging properly,L,H
+1364a7eb-7595-4710-adb6-69462fd1cb95,1004161,Overheating issue detected,H,C
+a7a179fe-e788-4594-abb1-ab30ecd69e71,1004100,Inverter not functional,M,I
+100a649f-9ddf-4c31-baf4-5ac877db77f8,1004155,Performance below expected levels,M,H
+bf684562-ce1d-4a47-868c-fe968cd0f927,1004100,Performance below expected levels,M,C
+9d06c712-50ec-4caa-8439-782ef51d4193,1004100,Temperature sensor malfunction,H,H
+90dc14e5-f3b3-4770-abd6-800166f917cc,1004100,Shade optimization not working,H,I
+3713d0d1-cf9b-4914-b2b5-b6e5473cf242,1004100,Cleaning required for optimal performance,M,R
+d99a9db4-a5fe-417c-a869-f355423ac8a6,1004161,Water ingress in panel junction box,L,I
+ab415dcb-f2f2-4c2d-81c4-da6027e04b36,1004155,Connection cable damaged,L,N
+324557fc-874c-4658-8024-54179af8e3ae,1004100,No current on a sunny day,H,A
+6ffdbef8-62e1-4cff-9619-1972d6ebfc70,1004100,Arc fault detection triggered,L,I
+34666975-a43b-4309-b2b6-7047f7b9769c,1004155,Cleaning required for optimal performance,H,R
+eb280e8b-22c5-48b8-ac72-a25055919059,1004155,Shade optimization not working,L,N
+2b3f9bdc-b966-4355-b5e4-780833af84b0,1004161,Firmware update needed,M,R
+e14a6328-350d-4dc1-afb3-523b117f9ab1,1004161,Cooling fan malfunction,H,R
+fec5286c-664e-478a-ad22-9b18daf89f98,1004155,Micro-inverter communication error,M,A
+7e3684a0-3f23-4302-96fa-00adbe6dbbed,1004100,Cleaning required for optimal performance,M,C
+255359d7-dff2-4fd7-aa8f-8f1a9ef7347d,1004100,Reduced power output,L,N
+41d23e27-58ff-41fb-942a-8f6b06d2e39f,1004155,No current on a sunny day,M,R
+ce50c099-ae99-413f-8e20-649c76c6573f,1004155,Ground fault circuit interrupter tripped,L,R
+1c602821-ced5-434b-983b-b61829ba4006,1004100,Ground fault circuit interrupter tripped,H,C
+95d6ce7d-06f5-4be7-9d30-2941767a5e34,1004100,Connection cable damaged,M,H
+4279be49-47e8-46f7-a45c-12e5407586fe,1004161,Shade optimization not working,L,A
+ef1bc1d5-f31d-475d-836c-e22dd0483f1b,1004155,Battery not charging properly,L,R
+19840a9e-8065-4dbd-a0d7-445487e334d8,1004161,Cooling fan malfunction,H,A
+0b33f71a-7ccb-45f3-991b-ed186da95483,1004100,Grounding system check required,H,H
+eb6270e2-ed02-46cb-8e9f-c62349d0fda9,1004155,Shade optimization not working,H,A
+2961c796-23aa-4ba0-90d6-a0aaf5166388,1004161,Electrical cabinet door open alarm,M,R
+f4d2d865-1682-469a-bb45-60d83285d4a4,1004100,Surge protector replacement,M,I
+6ba36c4a-4fc4-45df-b773-0429435cd548,1004161,Power optimizer failure,L,C
+694c4e9c-28da-46bb-be40-6dffe1490494,1004100,Performance below expected levels,H,A
+40ca7107-98a2-445a-8c93-ad0567f68e0e,1004161,Cleaning required for optimal performance,M,H
+6ae05788-f780-4502-a491-3f2915dc1f84,1004161,Surge protector replacement,M,I
+d29c39a2-d740-4406-aabe-948ad15f88cb,1004155,Grounding system check required,H,A
+3cd5dbf4-1f04-40cf-a4d8-35f4f42074c4,1004161,Cooling fan malfunction,M,H
+a4abc647-cbe4-4c5f-839d-202d438a59d7,1004161,Meter reading discrepancies,H,C
+f72cfcef-4a70-468f-9f8e-9e648e1b48c2,1004100,Ground fault circuit interrupter tripped,M,R
+be768a75-55f1-46c1-9cd2-b076e244e86b,1004100,Monitoring system offline,H,H
+223d89e5-43b2-4320-a2ec-e30abc819574,1004155,Arc fault detection triggered,H,H
+d6f94e2e-1015-4fed-a104-5aa57cc2d23e,1004100,Monitoring system offline,H,R
+bd5abbbc-22c1-42c3-a41b-0f2c1d1e7de5,1004161,DC isolator switch failure,H,I
+498b29e1-4de3-4466-afb8-326c5b0a5a61,1004155,Cleaning required for optimal performance,M,R
+5180f365-9843-4308-a099-b837339c052c,1004155,Power optimizer failure,M,C
+08287a57-eb0a-4917-b540-3299beadb7a0,1004155,Overheating issue detected,M,N
+49de8099-b970-471e-8d65-1ea1567d5072,1004155,Solar panel broken,L,C
+a5b931f7-4608-4aa1-9056-c17e93086ebc,1004100,Remote monitoring disconnected,H,I
+b2ea7e0c-3592-46ac-bd38-b7e1cc170401,1004100,Battery not charging properly,H,A
+54837217-0d70-4355-8276-21e331ca5443,1004100,Grid synchronization problems,H,I
+77581574-8d4e-4231-8a6b-7eab909ea8bb,1004100,Overheating issue detected,M,R
+65ddd5c4-8e1f-4f24-bbae-69512bbfb07c,1004155,No current on a sunny day,H,R
+fbcf271f-81e7-4e10-af7b-3c91d2943d0d,1004155,Power optimizer failure,M,C
+744399c2-0a18-4dd6-b83f-b34cff4579f9,1004100,Cleaning required for optimal performance,M,I
+7cf45622-25c8-4be6-b01b-95661ec55bab,1004155,Solar panel broken,M,C
+935488cc-78ac-4a05-9367-c44c2c9bde9a,1004155,Power optimizer failure,H,I
+0cd03bd0-578b-43a5-a3e8-f4c1ca570b3d,1004100,Connection cable damaged,L,H
+c0fc506c-dd1d-4132-99bc-390a936b618a,1004155,Electrical cabinet door open alarm,H,I
+1eb34a95-735b-4841-b351-148baabda17f,1004100,Overheating issue detected,H,R
+835856b1-fbe0-421b-91f0-d2f64ef061e7,1004100,Electrical cabinet door open alarm,M,C
+b7337a72-bd94-4a0c-b637-7f39c8ecc4a2,1004161,Reduced power output,H,A
+a95b2283-1e9c-4078-9f06-d4ec52416601,1004161,Reduced power output,M,I
+12f4a262-9b35-4ed3-926d-f3a7273c0198,1004161,Meter reading discrepancies,L,I
+5311d808-1b60-4a93-9d48-4e58c85bcb36,1004100,Connection cable damaged,M,H
+23481105-c936-4e45-b7dd-a7612a1f3fe9,1004161,Ground fault circuit interrupter tripped,M,I
+fb11e4f5-3474-46d6-8845-cd2b73515c8f,1004155,Electrical cabinet door open alarm,M,R
+dd4570dc-f974-4275-8835-7667abda97eb,1004161,No current on a sunny day,H,H
+2ef0bf39-c8eb-41b8-bfae-7e2ee6cba845,1004155,Firmware update needed,L,N
+2613532e-59d2-4ecd-8f90-71fc8e4d5f66,1004161,Solar panel broken,M,R
+d35cdc72-df1c-4d68-9c53-00e43dbe3524,1004100,Lightning damage assessment needed,H,A
+82f5496c-b7fd-4406-9c9a-2ec0dc230439,1004155,Performance below expected levels,H,N
+9ee77c49-d84c-461b-a0d5-48b3ae99ae7d,1004100,Inverter not functional,H,R
+4d318392-2746-4ec5-aa66-c83648469ba7,1004155,Insulation resistance test failed,L,C
+aa6167e6-c664-48f5-a558-9dcb3a508c60,1004155,Temperature sensor malfunction,L,I
+914dbf79-f7b8-46a2-bc97-5d4b41c05d1f,1004100,Meter reading discrepancies,M,C
+006c6955-c1ea-424f-ad2c-07eb6ad43029,1004100,Power optimizer failure,H,N
+09b0789d-b630-4f7f-81e0-a8a4dfb354ee,1004100,Overheating issue detected,L,R
+1fef1232-da72-446d-ab15-9d515632565c,1004100,Battery not charging properly,M,H
+cb3e5195-6229-4638-8d20-7291b71d2137,1004161,Display showing error codes,L,H
+f4d2ac45-fbdc-4296-99ac-0c0d1f01bcc9,1004161,Electrical cabinet door open alarm,H,A
+18ad6ab1-48de-4934-9c52-3adc3b830b93,1004100,No current on a sunny day,L,I
+7b0f906b-c668-4be4-bc2e-a0047738cb5a,1004155,Shade optimization not working,H,R
+973a8560-1337-4927-8c46-3ab4a97bc3dd,1004161,Electrical cabinet door open alarm,L,C
+6167bd4f-80da-4014-a30a-1cc03bee8063,1004155,Wiring inspection needed,L,C
+4e487bde-a271-4134-baf8-d5038352cf51,1004155,Remote monitoring disconnected,H,C
+3cf400e9-c1c5-4d1d-b87b-2a63702e3fe8,1004161,Insulation resistance test failed,M,N
+aa28e2e3-a335-4ccc-a597-ab438b85b367,1004155,Reduced power output,H,H
+d0092021-23bc-4398-aa84-774673e6d81c,1004100,AC disconnect switch issues,L,N
+3677b4af-79ed-43c1-bbda-1cdc27e8ecd8,1004155,AC disconnect switch issues,M,C
+a4afc9ef-b2ae-4499-80fc-75fbd75d1781,1004100,Meter reading discrepancies,H,N
+e7287c30-ac92-4f3d-b36b-997e0a6ac3d0,1004100,Strange noise when switching off Inverter,M,C
+16901d9f-f9ce-41e5-b74b-33b80ddf7099,1004100,Electrical cabinet door open alarm,L,I
+836fa4f9-ac23-4831-abde-efeae0e4585d,1004155,Reduced power output,M,A
+e9e1f7f7-921f-4cf8-89a0-693a5ad336a9,1004161,Cooling fan malfunction,L,I
+fb2ae26e-31fd-4a5c-a131-450cfeba6413,1004161,Ground fault circuit interrupter tripped,L,H
+35b39234-586f-4a48-9452-39cc04c1bb81,1004155,Overheating issue detected,H,N
+c0562916-ce8b-4974-9ec5-4fc5bae3d007,1004100,Connection cable damaged,L,H
+26f31a8e-c4ff-434e-8760-ec6ef30679ef,1004155,Arc fault detection triggered,M,H
+48a3771c-85c2-4cc9-9d19-b00f8810c829,1004155,Lightning damage assessment needed,L,A
+54da68a6-1ad0-4296-abd8-18b6f7d8c308,1004100,Grounding system check required,H,H
+d44dfafd-519e-4d5e-860d-d72c7c25b49f,1004161,Solar panel broken,M,I
+6115e035-faed-4723-8453-9cf6bbdfd09b,1004161,Reduced power output,H,H
+02662591-3aa4-422a-83d4-1d191ea18b55,1004161,Ground fault circuit interrupter tripped,L,C
+507b2f29-79db-47b6-b235-188a7089f7b1,1004161,Water ingress in panel junction box,M,H
+4b031133-d3d4-42da-8602-46a16ca98eeb,1004100,Voltage fluctuations detected,H,H
+a773fd2e-fd95-45d7-b2cc-288b9d468a24,1004161,DC isolator switch failure,L,C
+08c34efc-22ea-41c2-913b-e5864f9dfb26,1004155,Connection cable damaged,M,I
+40d97b77-7341-4a13-97cb-219e4f794e3b,1004155,Micro-inverter communication error,H,C
+b17aebd5-a047-46ff-9624-32ee08f8384d,1004100,Water ingress in panel junction box,L,A
+70800ee6-9f3d-4640-bccb-62ef3e4c60f6,1004155,Lightning damage assessment needed,M,H
+9fc2ead4-bccf-4853-b638-f6b4b1214ab7,1004155,Remote monitoring disconnected,M,H
+06f600fa-c948-494c-b607-ce5285f8a4d2,1004100,Solar panel broken,H,A
+238dee92-1c2b-45a4-9a54-5547c1e763a7,1004155,Voltage fluctuations detected,H,I
+0d055f2d-3fa6-4fe2-be57-5694ff2634cd,1004100,Surge protector replacement,L,R
+c8f08d8b-9fa9-4adf-a40d-912cb21eef96,1004155,No current on a sunny day,M,R
+7fd7233e-a829-47d4-8179-ab454fbcf7dd,1004100,Inverter not functional,H,I
+2b4001ef-6fba-4783-9d3f-89f057e8ad67,1004155,Arc fault detection triggered,M,H
+2ee32a80-cde7-4a9c-ac77-19ca12a76968,1004161,Grid synchronization problems,H,A
+a663efd1-b9cb-4989-b332-3a90acc33653,1004100,Battery not charging properly,H,I
+a0e2b49c-3ae5-45df-8b0f-faa0e60f4c19,1004155,Ground fault circuit interrupter tripped,M,C
+14a701bd-ca0b-4dae-b7f1-01797dd9563e,1004100,Grounding system check required,M,C
+1db1e09d-2705-4c8b-875b-9823ae7c3c2f,1004100,Overheating issue detected,H,R
+339b3b6a-e48b-4403-9362-8ef6e21c440a,1004161,Temperature sensor malfunction,H,C
+1a253b77-384d-4662-81bd-af545d1e84e0,1004161,Electrical cabinet door open alarm,L,C
+2fbe26f2-7487-411b-bd80-392361d28b7e,1004100,Ground fault circuit interrupter tripped,L,H
+5f3c930f-7b4a-458a-a1b1-dd7e4f64edec,1004161,Electrical cabinet door open alarm,H,H
+8c414c2d-8f6e-41b8-a4a6-44ae5b3a17ad,1004161,Remote monitoring disconnected,L,R
+bee5ea54-8565-40ad-91ec-c0812facdb19,1004155,Overheating issue detected,L,N
+655327cc-8083-4feb-a45d-d031d6962745,1004100,Water ingress in panel junction box,H,N
+01ee243f-ed72-4818-90b4-6e6ffcaca9b1,1004161,Power optimizer failure,H,R
+81572424-4966-4f5f-8498-cbb4a8e29968,1004161,Temperature sensor malfunction,L,N
+960cade2-a86a-4a92-b0eb-1d76ec848090,1004155,Electrical cabinet door open alarm,L,R
+8c4fd88c-c48a-4698-93f5-b4d95c17154a,1004100,Battery not charging properly,H,C
+c338a3ab-d56d-4870-8ab6-8654591ad4f9,1004100,Remote monitoring disconnected,L,I
+0e122bf2-afe5-4e2c-a396-bf26dd418586,1004155,Ground fault circuit interrupter tripped,L,C
+f7cc172f-9bcf-4384-ab62-256aab7bb0c8,1004155,Monitoring system offline,L,H
+a771c085-b9da-4787-9c11-8c5cdfefdab4,1004161,Performance below expected levels,M,H
+098721ae-57aa-461c-a013-b6d95d5e9fa6,1004161,System reset required,L,H
+d404e692-66ae-41bd-a87f-356447beb036,1004100,String fuse blown,M,N
+1184ed4c-79f3-4ebf-9445-e9bebe2706d5,1004155,DC isolator switch failure,M,N
+553ed3c3-592b-4643-9742-5bc0612803b2,1004155,Voltage fluctuations detected,L,N
+ddc32b1d-94b7-4fa6-bc89-6cc0d04d2955,1004100,Firmware update needed,M,R
+0574c8a4-f42d-4f48-af7e-62ee75a31c40,1004100,Grounding system check required,H,N
+3a53ee92-905d-476b-ae49-84b889987f23,1004155,Water ingress in panel junction box,L,N
+15fed305-f6c4-4d8a-96ce-0a67db0ddecc,1004155,Grounding system check required,M,H
+c7fed98c-2cf4-404a-b027-1261aaf9821c,1004161,Solar panel broken,H,C
+7597c373-b868-4f9a-a67b-9a0f42730cfb,1004161,Electrical cabinet door open alarm,L,R
+4fab5041-8b67-4fa5-8a00-d8ed87d54b3f,1004155,Micro-inverter communication error,H,H
+2366e13b-b7e9-4be1-b3ea-7b0b40a31ec5,1004155,String fuse blown,L,N
+88fc88f5-be57-4019-afc5-28a2da867928,1004161,Cleaning required for optimal performance,M,A
+9499fdce-a283-45d5-9115-dc8068e96b72,1004100,Overheating issue detected,M,I
+c591b8aa-33ab-4892-ad15-08cebd994609,1004155,Power optimizer failure,H,C
+ae96215e-0809-4b98-bee6-024ff0614831,1004161,Cleaning required for optimal performance,L,I
+f8b91979-ad21-4c4d-b213-ac9ac7559944,1004161,Connection cable damaged,M,H
+33e0a7bb-7c0f-4073-9508-8bb2cdea1f41,1004100,Arc fault detection triggered,H,A
+23e9008e-ce33-415d-b9a3-ea13ae76db06,1004161,Arc fault detection triggered,M,H
+31c7cc29-45ac-4fc3-8cfc-892c36d65d0b,1004155,Remote monitoring disconnected,M,C
+f9a70c38-c30a-465d-ae1d-d70d26142649,1004100,Temperature sensor malfunction,L,C
+abdd906c-a40f-45ab-810c-2c76fe8e6c96,1004100,Micro-inverter communication error,M,H
+66190e5f-24b4-4872-b878-f64fa63ab331,1004100,Solar panel broken,M,R
+ab4e4d94-a36b-4bb4-a538-20c235ed6102,1004161,Display showing error codes,L,N
+e69376fd-50ea-4979-93e7-7416bf9fbbb1,1004161,Grounding system check required,H,A
+a4a3d5e8-75ef-4cf2-b02d-e5b2af7acac8,1004100,Overheating issue detected,H,C
+2a27b328-cf81-43c0-aa22-2f317ef015b3,1004161,Strange noise when switching off Inverter,M,H
+74fbb80e-f8c4-46a7-b31a-6160b955fa20,1004100,Insulation resistance test failed,L,I
+af895695-61de-4295-94ca-c0f64e863d55,1004155,Lightning damage assessment needed,H,A
+4eeba1d6-8432-4496-b356-c8ea513f2fe9,1004155,Micro-inverter communication error,M,N
+8afaebc2-e35d-4d9a-8e82-8e1dc6d88b07,1004100,Connection cable damaged,M,R
+7821ba69-9c8e-45cb-a1ab-840d140ddfe1,1004161,Cleaning required for optimal performance,H,R
+dcf4cdbf-56f6-4664-a0b9-fbab5a17f68e,1004100,Temperature sensor malfunction,H,N
+94a0b286-da58-4ee6-b2f5-3c188fc9547e,1004100,Battery not charging properly,L,R
+fa007ea3-9a52-4e25-9cb5-a7605841c7e4,1004155,Micro-inverter communication error,M,N
+9a9cfb77-ee08-49a4-a8b6-b6cdd40e882d,1004155,Micro-inverter communication error,M,C
+58cbf790-e720-4510-a342-2705649a6f79,1004161,String fuse blown,M,C
+ed4ec21b-fd7f-4591-94a4-d97bdc15dc11,1004161,Lightning damage assessment needed,L,C
+b2757d96-ffba-47ec-b13c-839d924c7275,1004161,Strange noise when switching off Inverter,M,R
+0d8059da-e055-4601-8850-82ba14d9af33,1004161,Power optimizer failure,L,H
+76590eff-75e2-4c3f-a956-1534c13d4dbf,1004161,Water ingress in panel junction box,H,I
+c2ba6bea-2780-484d-834e-5cf35a990b0f,1004155,Monitoring system offline,M,C
+733f50c3-50d1-429c-87a4-035315e02026,1004155,Battery not charging properly,M,H
+ec26dfca-7ab0-46db-8c1a-3fd8d2cbed6a,1004155,Water ingress in panel junction box,M,H
+f5cc46db-00ac-4bb9-9739-864e2fe8f37d,1004155,Battery not charging properly,L,H
+93046880-6753-4df2-acef-cc8f0d1e4ced,1004100,Remote monitoring disconnected,L,I
+22da5209-fba8-435e-844c-c117efb9f160,1004161,Arc fault detection triggered,M,A
+c4422bd8-1233-40cb-97d0-a7052cb4cf80,1004100,Overheating issue detected,L,H
+a799eb67-b465-4234-b6a6-bc14a446a68c,1004161,Grounding system check required,H,H
+bed490c8-ac9c-444c-bb62-72c31ebf0dc2,1004161,Insulation resistance test failed,M,R
+0594e453-bfb3-4b83-bd6e-a83b2884f6f2,1004155,Temperature sensor malfunction,L,R
+83fc2168-f745-4d96-a3e8-e4f3e9f64c35,1004155,System reset required,H,I
+82037141-8cfd-4789-a9ff-02b77c4c0046,1004161,AC disconnect switch issues,M,H
+b8f696d2-807a-4090-b60c-3f34c5cbb9d9,1004161,Inverter not functional,L,A
+75c3803f-8cc5-4595-85b6-b37f4b227726,1004100,System reset required,H,A
+cf1929c9-a70a-469d-8bb6-9224d5f473c0,1004161,Strange noise when switching off Inverter,H,C
+313d2199-98a9-41c7-a200-6b449616f2ab,1004161,Micro-inverter communication error,M,A
+f3ca0c94-68d2-4968-b9e3-98a6eba810ff,1004100,Water ingress in panel junction box,L,I
+7ffb8fe7-dfeb-4057-9410-cd0c21bb58f4,1004100,Cleaning required for optimal performance,H,I
+c3d583ee-c56f-48a0-ac09-f7933057a16c,1004161,Battery not charging properly,H,H
+1739f688-7b61-4e0b-a1e2-79c3a0b5e193,1004155,Lightning damage assessment needed,L,R
+f3d546cc-020f-4557-a158-01e38fc74cae,1004100,AC disconnect switch issues,H,N
+60ac76d8-f912-4bf0-a0f6-3e40c03ca0d8,1004155,Remote monitoring disconnected,M,H
+598a7f17-82ba-49fa-b9af-d1b801bc2b0b,1004100,Arc fault detection triggered,H,A
+f9924e9a-3cfe-41f2-9895-ed7efda6eb1d,1004100,DC isolator switch failure,M,R
+11948290-7d57-487d-81b9-3d5e575dc218,1004155,Lightning damage assessment needed,M,R
+f8d44f34-a6ed-4b8b-b104-bb4188a736dd,1004100,Inverter not functional,M,R
+01664439-50c3-4e7c-9c0e-4747209972f1,1004155,Connection cable damaged,L,I
+8d786ccd-4afd-44af-a1b2-06b39a6f0b72,1004100,Cleaning required for optimal performance,M,A
+0b269aaa-558a-4f0f-9d6c-0f4ca78b28ef,1004155,Ground fault circuit interrupter tripped,H,A
+b03994c5-bb63-436c-8b29-302cadb181b6,1004161,Lightning damage assessment needed,H,N
+486fd00a-6fdf-483e-8038-84384995e581,1004161,Connection cable damaged,H,R
+66281071-d697-4b9f-82f5-738a22f961a5,1004155,Insulation resistance test failed,H,H
+82f43ddf-3f3b-445c-8fae-7ec37f389589,1004161,String fuse blown,L,A
+3593c822-0d1a-4678-8405-2413837764d1,1004161,Display showing error codes,L,I
+3191a076-587b-4043-8cd8-a39eaca563bb,1004161,Remote monitoring disconnected,M,R
+a00ef56d-b31d-4c88-938f-3351d0132844,1004155,Shade optimization not working,L,A
+5dd064f7-c281-4a66-8454-1b165004c9d3,1004161,Inverter not functional,H,H
+0ba9d1c4-578b-4492-b502-ea18ca647cef,1004100,Meter reading discrepancies,H,H
+b0caf9cb-6e1a-423b-a00c-3f72d738367f,1004161,String fuse blown,H,R
+f82b7c1b-140f-4e61-be25-2199afbee9db,1004100,Performance below expected levels,H,N
+ce340f3a-4a8a-42b8-a01e-31c004d038f3,1004155,AC disconnect switch issues,L,A
+fe75d4d7-3dda-419f-bbd3-f34a18a4a6df,1004100,Grounding system check required,L,C
+f2b90f84-54c6-42f6-b922-e06b02fe6e92,1004155,Surge protector replacement,H,H
+501667c8-d3e9-4888-9989-cbe60f1408a6,1004155,Performance below expected levels,H,I
+43e7dec4-f706-40dd-a839-62adaa0e2caf,1004161,Electrical cabinet door open alarm,H,A
+e08612d3-b27e-41a1-942a-b22f90821dcb,1004155,Surge protector replacement,L,N
+695ddf5f-e116-44eb-837c-03a07254ae98,1004161,Shade optimization not working,L,N
+b52b13c3-45a9-4e3a-8fdd-686fa0894f0e,1004100,Grounding system check required,H,C
+87111bdc-b7b0-46a8-894a-71add3a61492,1004155,AC disconnect switch issues,M,A
+9aa54bf9-8f91-4925-9951-cf067678c4a8,1004161,Overheating issue detected,H,A
+1fcbe30c-d4f9-4ebf-bd9e-4d39071504d9,1004100,Monitoring system offline,L,C
+dfc5a44b-2405-404a-a895-d5d2fc50f0f1,1004155,Surge protector replacement,L,C
+c1760603-db04-463e-b5c9-962d1b34926c,1004161,Firmware update needed,L,C
+6556d658-e548-4158-95cd-ca30209c5ac3,1004161,Grounding system check required,M,N
+08ead9c9-6e10-4510-8e55-391c6b853f3d,1004100,Solar panel broken,M,R
+a2c8d954-aae5-4a81-bc9c-59d2bddc6f68,1004155,Inverter not functional,M,I
+a1902661-981e-4151-91b0-356933bd7e21,1004100,No current on a sunny day,H,R
+d2dc40dd-8ed4-4759-877b-638c3daea497,1004155,Meter reading discrepancies,L,C
+464d2fa9-6743-4ec2-a810-7ad13f232941,1004161,AC disconnect switch issues,M,C
+b6b6f198-1ce7-483c-b9e6-ab64dd19c399,1004161,No current on a sunny day,H,I
+ce392f9f-8f98-4b12-b4d2-7eb90a45a6a2,1004155,Strange noise when switching off Inverter,M,I
+d82d2689-0510-4474-b109-e5ee0a25d971,1004161,Voltage fluctuations detected,L,R
+9be6ffb5-ab27-48e7-9b54-48900a51e1a2,1004100,System reset required,L,C
+47f66604-fbb5-462c-9aa0-7bb6a5c474b0,1004161,Inverter not functional,H,C
+f050bbea-1640-4c9b-8f39-ad14e0f7c0e5,1004161,Grid synchronization problems,H,C
+3a1fba11-3a3e-4cca-8f4c-e2bdb1283383,1004161,Shade optimization not working,L,N
+58d170d2-51d5-4491-b530-bcaf06ae35ff,1004155,Grounding system check required,H,I
+7d5d800f-bd77-4c40-bce4-647b8f5c78d9,1004161,Voltage fluctuations detected,M,H
+320b7299-13da-4a75-b225-24563433b5ec,1004100,Voltage fluctuations detected,H,C
+3069dbc8-5508-4f8f-b09a-9f2b2df8d198,1004161,Voltage fluctuations detected,M,C
+099aa7ad-3aa0-429a-ae23-75cc6aca70ea,1004161,String fuse blown,H,C
+6a84f561-edb4-498d-a208-001a5bf67945,1004155,Insulation resistance test failed,H,H
+7bd0bf80-f9a4-4f57-ad6f-a7b81624c65a,1004100,Solar panel broken,L,N
+2458623b-9b06-41ac-b506-e59bd04bc7c9,1004161,Insulation resistance test failed,M,A
+425e5cd4-6ac5-4283-a0ed-7a70d98d8173,1004100,Arc fault detection triggered,M,C
+cb07e716-e84e-48b2-9339-345a20c81535,1004161,String fuse blown,H,N
+f75717ec-beb4-4706-adf8-83b8b8629304,1004161,Monitoring system offline,L,R
+be03e1e8-727d-4ded-9a68-5cf6745e1f29,1004155,No current on a sunny day,M,A
+69e83e84-7408-4274-9933-00eb48ad0207,1004100,Power optimizer failure,H,A
+029fd955-2d9e-42ab-b8e7-0c896b7883be,1004155,Battery not charging properly,L,C
+5dcfbc72-e522-43e9-826a-9110952439ba,1004100,Arc fault detection triggered,L,I
+4ff6508b-16d5-4c26-90da-af0823c25d4a,1004100,AC disconnect switch issues,L,I
+87fbfdf5-dbfb-4bc0-83d7-d49aac4519dd,1004161,Lightning damage assessment needed,L,I
+1a120850-3e4c-4f2b-8c37-f5c859e2ff26,1004155,Monitoring system offline,L,I
+2cabe693-832e-486e-be3a-71601c56b213,1004100,DC isolator switch failure,L,A
+f26070ee-eb69-4156-a50b-cc156ad5568e,1004100,Ground fault circuit interrupter tripped,H,N
+a5608968-0aa0-4022-8a67-96a1fad8bf25,1004100,Firmware update needed,H,C
+8d2a26fe-3f31-4576-9224-587be8febfe9,1004100,No current on a sunny day,M,N
+d8b0f57c-7783-4121-8ba4-16da7ba2d416,1004155,Electrical cabinet door open alarm,M,H
+fac96ab3-f598-4a94-a2ea-59726b3babaf,1004161,Inverter not functional,H,R
+17d68a4c-60ae-4c7a-80a0-7ef32487f9e6,1004100,Temperature sensor malfunction,L,A
+5a8aef29-09bd-4fd4-9178-e4b2127a41b0,1004161,Display showing error codes,M,A
+fc668b40-db0f-4ea6-9690-6c507523f297,1004161,Power optimizer failure,M,R
+4d7bc55f-8bf8-4d30-82b7-25d099a9fa78,1004161,Voltage fluctuations detected,M,I
+ea56be90-a9fc-474b-9665-a7877e27aa44,1004161,Water ingress in panel junction box,L,N
+84c54944-8127-4d34-9e7d-fc8a50d94f57,1004161,Arc fault detection triggered,M,R
+4f9e7bf4-507b-4514-bc20-43444f81b229,1004100,Insulation resistance test failed,M,N
+f42d16e8-4667-4cf2-89a1-cdb24fb521c9,1004161,Lightning damage assessment needed,L,I
+ac5061ec-2917-4a9d-96a7-98055330171f,1004155,Inverter not functional,M,C
+c7433ca5-8f5c-488f-b933-b344bc3f58ae,1004161,Meter reading discrepancies,L,C
+5bbd66ca-023e-467e-aafc-4a1962089824,1004155,System reset required,M,A
+1a9ace5b-ba2a-494e-be8f-95bfc92e9d37,1004161,Cleaning required for optimal performance,H,H
+b16c46ea-a64d-41aa-baf9-3e0c30b30353,1004161,Electrical cabinet door open alarm,M,N
+97b4e8ee-4530-44fd-bfde-ed0a0e455a68,1004155,Connection cable damaged,M,H
+1d80d394-bc42-4256-9b31-a6dcd0d74647,1004100,Grid synchronization problems,L,A
+a9ea8660-8039-4b2b-a8bd-48d20473886b,1004100,Electrical cabinet door open alarm,H,C
+c53ca16c-81d0-4880-b6e1-636c10e74594,1004161,Micro-inverter communication error,M,A
+617f4668-3b03-42fe-b24a-78a48ff82985,1004155,Firmware update needed,L,N
+603ea0bf-cc52-4bce-9b74-14d9a22d50ef,1004161,Power optimizer failure,M,I
+27578b16-16bb-4ce9-989e-d46ba7eb62dc,1004161,Ground fault circuit interrupter tripped,M,A
+eb450da1-a645-4dad-b4e8-f3ce812fc2d6,1004155,Grounding system check required,H,C
+ffd856d7-1df3-40ce-b805-0060947498f0,1004161,Water ingress in panel junction box,M,R
+ad1e38ba-f410-494f-9bbc-f64ff02c6ebd,1004161,Cooling fan malfunction,M,I
+f27961e0-c1a5-462b-9330-6b27da4a699c,1004161,Water ingress in panel junction box,M,R
+c5a68710-32bd-4869-bc29-f2f46591388d,1004100,Cleaning required for optimal performance,H,N
+e80d0fca-dde6-45d2-9f1b-829141a3e525,1004161,Micro-inverter communication error,H,N
+45a71468-fd20-4400-a0f1-d91eb6a70588,1004161,Surge protector replacement,M,I
+cb0b4d7d-5561-4d15-bcf1-db40f03e4c23,1004155,Water ingress in panel junction box,H,R
+f41bbc8b-d89c-4871-a3fb-52d421cb78a9,1004155,System reset required,M,R
+864ad79d-aa0c-4f87-9efa-0ec5424cde49,1004155,Overheating issue detected,L,H
+3b5d92a1-d4f2-4246-96d0-0b6c3a139d06,1004155,Overheating issue detected,H,C
+4b10c22c-3603-46d3-91f4-beab1d198000,1004155,Grounding system check required,M,I
+72a8d943-fdee-44a9-8669-b04ddc737c33,1004161,Monitoring system offline,M,A
+188ca8cd-7165-4078-86f4-a03da3e3ce7d,1004100,Connection cable damaged,H,C
+59b11b1b-1bd2-4feb-9047-fcc0fa19e3b5,1004100,Grounding system check required,H,C
+7bfd520a-818b-429f-9846-de65fedc3e30,1004155,Grid synchronization problems,H,I
+59c61822-a244-4e02-b43b-233447f2f9e4,1004155,String fuse blown,M,R
+18fafd01-53be-44b3-94e2-682bb92d58fc,1004155,Wiring inspection needed,H,I
+fbf1a540-15fd-4f97-879c-11915c3ed1f4,1004161,Connection cable damaged,H,R
+41ca1581-6624-4917-a95e-20d556add586,1004155,Strange noise when switching off Inverter,H,H
+e54e3fe4-050c-45ac-97b7-849e6a5a2bd3,1004161,System reset required,L,N
+10c01056-f84c-4548-a045-bb6d58315d74,1004100,AC disconnect switch issues,L,R
+edb24b10-b535-4e2c-a5a2-81b4dab90a45,1004161,Arc fault detection triggered,M,I
+25367709-6798-413c-953f-f8702da46b36,1004161,Surge protector replacement,M,A
+ffae6e0d-4d5d-437c-986e-93703b69d2e5,1004161,Monitoring system offline,H,H
+2584f9f7-998f-421c-ba7d-c405f944cb0f,1004161,Firmware update needed,M,R
+455908a6-4d5f-4eb6-903e-24f0c7690708,1004161,Battery not charging properly,H,I
+f2307a8e-4316-40d1-af55-efc3723bd497,1004161,Arc fault detection triggered,L,H
+16d2ca1b-3a97-4963-9357-944cff8b5b9d,1004161,Voltage fluctuations detected,M,I
+4527bd2f-4a58-44fd-a33b-284bd67e2b48,1004161,Surge protector replacement,L,N
+fd51447d-c1c8-47a8-8a68-6889dfec6307,1004161,Connection cable damaged,M,R
+a892c9b4-18b1-4da2-9089-27888b294da7,1004100,Monitoring system offline,H,R
+5872869a-6cf1-4962-a778-578a5109ad81,1004100,Grounding system check required,H,C
+949f4b0d-6276-4ab8-ad0d-a1069475ddcd,1004155,System reset required,L,H
+2e4723ec-4d85-4712-bd88-b93a24a60899,1004155,Temperature sensor malfunction,M,H
+e295f386-4d8a-4927-b77f-c8ae32c08934,1004100,Micro-inverter communication error,L,N
+31059dae-4c7a-4e99-af84-80dd0c6f89d3,1004161,Solar panel broken,M,I
+458a19cf-2198-4e18-8bef-22767c99396e,1004155,Cleaning required for optimal performance,L,N
+1353d219-e1e2-4dd9-a14c-1d99739ab3e1,1004100,Firmware update needed,M,H
+bb77ddd8-2bf3-4ae3-8180-3f1662692470,1004161,Strange noise when switching off Inverter,L,A
+7fa84cee-2616-4fb6-87df-ec887b77d726,1004155,Inverter not functional,H,H
+709afe3f-b876-4b58-bda4-8228b4d18637,1004100,Cooling fan malfunction,H,N
+77765137-331c-43de-b4c7-fe15065a3643,1004155,Connection cable damaged,M,N
+267d8a98-a4ee-4385-b671-8658d5c92ae8,1004161,Wiring inspection needed,H,C
+6e76d1c5-0e25-41b1-bbff-edd14f9350a0,1004155,Grid synchronization problems,M,A
+7891bfab-992c-451f-a24e-67a13cf39519,1004161,Lightning damage assessment needed,L,H
+0b459264-882e-4519-8843-f3985c51eb9e,1004100,Solar panel broken,L,C
+2ed52fde-8743-43a4-92ec-b6e6adc32b6b,1004161,Cooling fan malfunction,M,N
+11219901-4db4-4472-9fb7-40ec6db96ae2,1004155,Wiring inspection needed,H,A
+6f8df05a-a2d7-4305-825a-2252a7b5797a,1004161,Remote monitoring disconnected,M,H
+6c7f56ff-b45a-47fe-8d69-b7f8f15414a8,1004100,Remote monitoring disconnected,H,H
+b007ca69-c6dc-4b08-89d1-129a1a1915e8,1004155,Battery not charging properly,H,A
+6728d115-3f7e-4ea9-89cd-0a884fca0f25,1004161,Insulation resistance test failed,H,R
+9148d27e-aa20-43f1-9b61-25fe73956360,1004161,Connection cable damaged,M,H
+dab56d63-c8fa-4e76-a7b9-e6e25c06b298,1004155,Ground fault circuit interrupter tripped,M,A
+61ba94e7-ca4a-4342-8959-b8e3bb0ed0bd,1004155,Display showing error codes,M,R
+e8430e84-2425-4b5f-ad69-7463649172ff,1004155,Display showing error codes,H,H
+f26ee6f4-6bf3-4d44-bdb9-414d58a59e39,1004100,Inverter not functional,M,N
+f1e38808-c079-4f3a-ba1e-1a18c18e087b,1004161,Cleaning required for optimal performance,L,I
+0e4fada5-d665-4524-8018-9a88eb6ecb19,1004155,Water ingress in panel junction box,H,N
+6be382c0-4fd9-4910-b419-59c7722321c1,1004155,Connection cable damaged,L,R
+d8c8f957-3014-43d6-830f-b57e76cc11a9,1004161,Temperature sensor malfunction,L,N
+c980b5da-63da-4be5-a7f9-ba42a437930a,1004161,Battery not charging properly,L,I
+86473788-07fb-4755-b2d6-ad9d256a60f3,1004155,Performance below expected levels,H,R
+952011da-de51-4669-ae55-826c67cc2eac,1004155,Performance below expected levels,L,R
+a5859bf6-ceaa-41d2-8d35-16f3dc639f19,1004100,No current on a sunny day,H,N
+bb29ab2d-9b76-47fe-ba06-9c6481bdfd67,1004100,No current on a sunny day,L,H
+91565f03-a751-4766-88ab-88e44c2856c1,1004155,DC isolator switch failure,L,A
+c25bdb76-e1b3-473e-bb3c-19aeb1193bdc,1004155,Insulation resistance test failed,L,N
+6cb48961-2185-4f0f-993d-e927baa95adf,1004155,Micro-inverter communication error,M,N
+efa38de1-be94-46c4-995c-f68859c45530,1004155,Temperature sensor malfunction,H,N
+844b516e-b7fd-4b6f-ac68-c8343b092b75,1004100,DC isolator switch failure,M,R
+4cf7bebd-6cd3-41fc-999f-dcd3715e3acd,1004100,AC disconnect switch issues,H,A
+eddd227f-ec7c-4a87-b97b-a2656d255ad8,1004100,Battery not charging properly,M,H
+6e9ced51-ec94-4788-ae51-2cd0a16f8f4c,1004100,Power optimizer failure,L,I
+e4f2a7ef-b20f-48b1-aed0-8c3de14e7cf7,1004100,Firmware update needed,M,N
+4e214fc9-3373-4683-a7d1-9626263cf2fa,1004161,Water ingress in panel junction box,H,R
+9f346602-60f6-4e0a-9f20-6512905d878d,1004155,Arc fault detection triggered,H,R
+5a88a4b2-3a3a-46da-906f-7b0667440a59,1004100,System reset required,L,H
+5ed3a345-45b8-48e6-b34c-f63435c06eb9,1004100,Inverter not functional,L,C
+abdf883b-5ee5-4f58-8481-2039a76830da,1004100,Surge protector replacement,L,H
+af8eeb6d-625d-460d-813f-408474a9915c,1004100,Electrical cabinet door open alarm,H,A
+21d8149b-2efb-4f67-8156-f0604b49300d,1004155,Electrical cabinet door open alarm,M,R
+aa0f5635-eafc-4a5f-a58e-9d6b5c3efd29,1004155,Lightning damage assessment needed,H,I
+e85e8d43-9b73-420c-a58d-ae8c0e7b2c21,1004155,String fuse blown,H,I
+faf11985-1dfe-4033-b4a5-6eb5a697a9f5,1004155,System reset required,M,A
+71488f72-62a9-465b-860b-25515b7407d2,1004155,Battery not charging properly,L,R
+de31689e-1652-403c-8178-77140e1a90bd,1004155,Connection cable damaged,L,N
+5fdaaa94-4379-48d7-8b9e-fb05e43a3220,1004155,Firmware update needed,M,H
+3ea6b899-7a45-49f9-bc85-43f2959b1c6b,1004161,Surge protector replacement,L,H
+435e161d-5116-4d26-b980-39c88c8c9b59,1004161,Connection cable damaged,M,I
+458827e5-5b49-4e87-9825-56fc1212fcb3,1004155,Grid synchronization problems,M,R
+211e6da3-9d5a-4455-9feb-20cecca9271c,1004155,Connection cable damaged,M,H
+b4f77ef8-4944-402b-a0e3-1c9530add501,1004100,Cooling fan malfunction,M,H
+3ba7f244-d42a-47be-b933-a2ec2d0b9e12,1004100,Grounding system check required,H,A
+6dcb9cc7-ec25-4e5d-a54e-9442e68e7819,1004161,Overheating issue detected,L,H
+5a2fac04-eacb-454b-915e-14be74801107,1004161,Ground fault circuit interrupter tripped,H,I
+ec14a905-e868-4980-80b1-b3990d7a93ff,1004155,Overheating issue detected,M,N
+1ac9c921-6b8b-4c0c-9962-845bbdfc2dd9,1004161,Cooling fan malfunction,H,N
+339e67fa-dc95-43b4-b748-3bf83f909766,1004155,Meter reading discrepancies,H,R
+b7c9509a-6660-4d6d-9407-0f905a40cdb1,1004100,Inverter not functional,H,C
+fea0afd6-f183-4a27-b541-8d453f9833a8,1004155,DC isolator switch failure,L,C
+2f2f0735-7d66-44f9-8868-2c60eb30a11a,1004100,Wiring inspection needed,H,R
+032e54fd-e56c-48d0-aa34-75bc3eec8cc6,1004100,Micro-inverter communication error,L,H
+2061ccd3-7797-4106-af90-e5aa3d6b8bee,1004155,Ground fault circuit interrupter tripped,L,I
+0df742c4-5c9e-4538-8557-cba41930ce7d,1004155,Micro-inverter communication error,H,R
+a622382d-10a4-448d-bc69-9535765c9459,1004155,Surge protector replacement,L,R
+2ed65b31-e5f8-477c-b9c4-0ee943e4db31,1004100,Monitoring system offline,L,C
+e19777e4-0211-4512-bee5-0adbf8637e73,1004161,Strange noise when switching off Inverter,L,A
+65bb3282-d5f5-4f17-8722-02b61a2cb1e1,1004161,Firmware update needed,L,N
+69ad4194-6b19-4087-8c02-097ec819167c,1004161,Grid synchronization problems,M,R
+223aebfc-e869-4c26-a645-8d6e542e1a3c,1004155,AC disconnect switch issues,H,I

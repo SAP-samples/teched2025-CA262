@@ -14,13 +14,15 @@ Depending on the environment, the requests that are never cached are:
 
 After completing these steps you will have a local launchpad.
 
-1. Open Visual Studio Code and open the folder `teched2025-CA262`. Then, open a new terminal via `View -> Terminal` or reuse the one you open previously. Finally, run the following command:
+1. Make sure that the server is still running in one of the terminals of Visual Studio Code. If this is not the case, start it again by running the following command:
 
    ```sh
    npm start
    ```
 
-2. Open the file `app\launchpage.html` and adjust the property URL in all the tiles according to the names you have from exercise 3.5.  
+   Remember to keep it running during all exercises. Other `npm` commands can be executed in a second terminal that can be opened via the `+` button in the terminal view of VS Code.
+
+2. Open the file `app\launchpage.html` and adjust (if needed) the property URL in all the tiles according to the names you have from exercise 3.5.  
 
    ![Launchpage](./images/Launchpage_URLs.png)
 
@@ -154,4 +156,4 @@ You have now learnt the different types of OData requests and how to optimize th
 > **Wow!** :clap:  
 > You have officially completed the final exercise of CA262 as part of SAP TechEd 2025.  
 > We hope that we were able to demonstrate how easy it is to *Analyze and optimize front-end application performance*.  
-> Go back to the [Overview](../../) of this repository.
+> If you want to learn more, feel free to check out the [(Bonus) Exercise 5 - Initial Load and Live Mode](../ex5/README.md) about the performance impact of the "Initial Load" and "Live Mode" settings for the List Report.
