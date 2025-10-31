@@ -90,7 +90,7 @@ Missing library dependencies can happen when we rely on tools that might have a 
 
 4. This generates a new built version in folder `app/incidents/dist`. Go back to the browser and reload the page by pressing `F5`.
 
-5. Have a look at the requests. What do you notice now? You should see that there are no more single requests to artifacts that belong to the sap.ui.mdc library. Also the total number of requests is now down to 182.
+5. Have a look at the requests. What do you notice now? You should see that there are no more single requests to artifacts that belong to the sap.ui.mdc library. Also the total number of requests is now down to ~180.
 
 ## Exercise 3.4 Evaluate and refine until your application is fully optimized
 

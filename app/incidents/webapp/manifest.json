@@ -123,6 +123,7 @@
                 }
               },
               "initialLoad": "Enabled",
+              "liveMode": false,
               "controlConfiguration": {
                 "@com.sap.vocabularies.UI.v1.LineItem": {
                   "tableSettings": {

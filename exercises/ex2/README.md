@@ -10,7 +10,7 @@ After completing these steps you will have learnt what the minify task is and wh
 Minification is the process of removing all unnecessary characters like whitespace characters, comments and changing the variable names to smaller ones, usually one letter, which improves the transfer time over the network and the parsing time in the browser.
 It usually achieves a file size reduction of 40-60%.
 
-As we have a Fiori Elements app which almost no custom code, the reduction is obviously not huge, but still we can see how it works. Two additional files will be generated: a <file_name>-dbg.js file with the original content and a <file_name>.map file that maps both files and will be used by the developer tools to show the source code while debugging.
+As we have a Fiori Elements app which almost no custom code, the reduction is obviously not huge, but still we can see how it works. Two additional files will be generated: a `<file_name>-dbg.js` file with the original content and a `<file_name>.map` file that maps both files and will be used by the developer tools to show the source code while debugging.
 
 1. Go to the Visual Studio Code instance where you have opened the folder `teched2025-CA262`. If not already done in exercise 0.2, open a new terminal in addition to the one where the server is running via the `+` button in the terminal view. There, run the following command:
 
@@ -51,6 +51,8 @@ This task bundles all the application specific files into one file called `Compo
    In the console we can see that 7 tasks have been executed:
 
    ![Build Preload](./images/BuildPreload.png)
+
+   You can have a look at the [UI5 Builder Documentation](https://ui5.github.io/cli/v4/pages/Builder/) for more details on the different tasks.
 
 2. Notice how this time the file `Component-preload.js` is minimized:
 

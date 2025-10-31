@@ -45,10 +45,10 @@ You will see the Incident Management app, which you might already be familiar wi
 Currently, the UI5 app is not built, which means it is not fully optimized for production.
 In the next two exercises, you will become familiar with the network tools and learn the differences between a non-built app and a built app.
 
-> [!IMPORTANT] You will keep the server running in the terminal during all the exercises. In case you stop it, e.g. by closing the terminal, you need to start it again via `npm start`. 
+> [!IMPORTANT]
+> You will keep the server running in the terminal during all the exercises. In case you stop it, e.g. by closing the terminal, you need to start it again via `npm start`.
 > All `npm` commands that need to be executed in the terminal during the other exercises can be executed in parallel to the running server in a second terminal.
 > This second terminal can be opened via the `+` button in the terminal view of VS Code.
-
 > ![VS Code New Terminal](./images/VSCode-NewTerminal.png)
 
 ## Summary

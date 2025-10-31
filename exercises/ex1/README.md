@@ -78,8 +78,8 @@ Now, re-enable the cache in DevTools by unchecking "Disable cache". Clear the pr
    Do you understand the difference between the three categories? Have a look at the following headers in the requests/responses to understand the caching behavior:
 
       - `Cache-Control` (response) indicating how long the resource can be cached; [see RFC 9111 for reference](https://datatracker.ietf.org/doc/html/rfc9111#section-5.2)
-      - `If-None-Match` (request) and `Etag` (response) indicating the ETag of the cached resource; search for these headers in requests resulting in a 304 response; [see RFC 9111 for reference](https://datatracker.ietf.org/doc/html/rfc9111#section-4.3.1)
-      - `If-Modified-since` (request) and `Last-Modified` (response) indicating the last modification date of the resource; search for these headers in requests resulting in a 304 response; [see RFC 9111 for reference](https://datatracker.ietf.org/doc/html/rfc9111#section-4.3.1)
+      - `If-None-Match` (request) and `Etag` (response) indicating the ETag of the cached resource; search for these headers in requests resulting in a 304 response; [see RFC 9110 for reference](https://www.rfc-editor.org/rfc/rfc9110#name-if-none-match)
+      - `If-Modified-since` (request) and `Last-Modified` (response) indicating the last modification date of the resource; search for these headers in requests resulting in a 304 response; [see RFC 9110 for reference](https://www.rfc-editor.org/rfc/rfc9110#name-if-modified-since)
 
    1.2. Amount of data transferred and total load time
 
