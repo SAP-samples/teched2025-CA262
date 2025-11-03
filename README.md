@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2025-CA262)](https://api.reuse.software/info/github.com/SAP-samples/teched2025-CA262)
+
 # CA262 - Analyze and optimize front-end application performance
 
 <p align="center"><img src="./exercises/ex0/images/CA262.png" width="80%" /></p>
