@@ -49,10 +49,9 @@ After completing these steps you will have learnt how to confirm that your appli
 
 4. Now reload the page by pressing `F5` or clicking the reload button in the browser. This will record all network activity for the initial load of the application.
 
-   > [!TIP]
-   > Since there are many library-preload requests and it is not too easy to tell them apart, enable the `Big request rows` checkbox in the `Network Settings`.
-
-   ![DevTools Big Rows](./images/DevTools-big-rows.png)
+> [!TIP]
+> Since there are many library-preload requests and it is not too easy to tell them apart, enable the `Big request rows` checkbox in the `Network Settings`.
+![DevTools Big Rows](./images/DevTools-big-rows.png)
 
 ## Exercise 3.2 Identify missing library dependencies
 
@@ -60,7 +59,7 @@ After completing these steps you will have learnt how to identify missing depend
 
 Missing library dependencies can happen when we rely on tools that might have a missing dependency or when we forgot to add it. That's why it is considered good practice to double-check once the application is built.
 
-1. Have a look at the requests that you see in the Network Tab from the previous exercise. Compare them with the list of expected requests from above. Is there something that seems odd? How many requests are in total? Spend some time analyzing the network trace before continuing.
+1. Have a look at the requests that you see in the Network Tab from the previous exercise. Compare them with the list of expected requests from above. Is there something that seems odd? How many requests are there in total? Spend some time analyzing the network trace before continuing.
 
 2. Currently, you should see 353 requests (maybe 352 due to the favicon.ico request). Scroll to the top. The request FilterOperatorUtil.js is the first one that doesn't follow the list given above. If we keep scrolling down, we see that there are few similar requests. This usually indicates a missing library dependency.
 
