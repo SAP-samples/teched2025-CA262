@@ -61,7 +61,7 @@ Missing library dependencies can happen when we rely on tools that might have a 
 
 1. Have a look at the requests that you see in the Network Tab from the previous exercise. Compare them with the list of expected requests from above. Is there something that seems odd? How many requests are there in total? Spend some time analyzing the network trace before continuing.
 
-2. Currently, you should see 353 requests (maybe 352 due to the favicon.ico request). Scroll to the top. The request FilterOperatorUtil.js is the first one that doesn't follow the list given above. If we keep scrolling down, we see that there are few similar requests. This usually indicates a missing library dependency.
+2. Currently, you should see 353 requests (maybe 352 due to the favicon.ico request). Scroll to the top. The request FilterOperatorUtil.js is the first one that doesn't follow the list given above. If we keep scrolling down, we see that there are few similar requests. This usually indicates a missing library dependency. Additionally, the library can be seen when navigating to the namespace (marked with the letter N) in the tree structure on the left.
 
    ![Filter Operator Util](./images/FilterOperatorUtil.png)
 
@@ -174,6 +174,9 @@ In this case, the measurements indicate that including as much library dependenc
 
 With enabled cache, the difference is not that big anymore.
 In the next exercise, we will have a closer look at the requests that are not cached and have a larger impact on performance when the cache is enabled.
+
+> [!TIP]
+> For [Adaptation Projects](https://help.sap.com/docs/bas/developing-sap-fiori-app-in-sap-business-application-studio/working-with-adaptation-project), it is also possible to add library dependencies. The procedure is described in [Adding SAPUI5 Component Usages](https://help.sap.com/docs/bas/developing-sap-fiori-app-in-sap-business-application-studio/adding-sapui5-component-usages-manually). 
 
 ## Summary
 
