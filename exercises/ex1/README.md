@@ -121,7 +121,7 @@ The Chrome DevTools provide a way to simulate different network conditions. Usin
 
 ## Summary
 
-You've now completed Exercise 1, which enables you to understand which requests are being sent, how browser cache works, and how to identify sequential and parallel requests.
+You've now completed Exercise 1, which enables you to understand which requests are being sent, how the browser cache works, and how to identify sequential and parallel requests.
 
 > [!IMPORTANT]
 > **Kudos!** :trophy:  

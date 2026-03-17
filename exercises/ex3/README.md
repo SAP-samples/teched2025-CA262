@@ -13,7 +13,7 @@ When analyzing the start-up of a fully optimized built app within the network tr
 - component-preload.js
 - OData requests. First a $metadata request, often followed by a head request. After that, $batch request(s) to get the actual data.
 
-The actual number of requests depends on how the application is started, but usually it would be less than ca. 100 requests. Any bigger number might indicate a problem and we should always double-checked it to make sure that it is fully optimized.
+The actual number of requests depends on how the application is started, but usually it would be less than ca. 100 requests. Any bigger number might indicate a problem and we should always double-check it to make sure that it is fully optimized.
 
 Requests for individual or single JavaScript resources should in general be avoided and they should be bundled.  
 
